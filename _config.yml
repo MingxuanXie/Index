@@ -1,10 +1,12 @@
 title: Mingxuan Creative Works
 author: Mingxuan Xie
 email: designer.mingxuan@gmail.com
+
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mingxuan Xie is a Vrchitect / Indie Dev / Live Coder / XR Innovator / Member of Hyperbation Art Duo.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -52,3 +54,7 @@ minima:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# Use GitHub Flavored Markdown 
+markdown: CommonMarkGhPages
+

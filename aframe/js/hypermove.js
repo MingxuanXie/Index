@@ -1,5 +1,5 @@
 /***********************************************
-Script by Mingxuan Xie (http://vrchitecture.org/)
+Script by Mingxuan Xie (http://mingxuan.fun/)
 MIT License
 ***********************************************/
 
