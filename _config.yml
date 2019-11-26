@@ -1,7 +1,7 @@
 title: Mingxuan Creative Works
 author: Mingxuan Xie
-email: designer.mingxuan@gmail.com
-
+email:
+  designer.mingxuan@gmail.com
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
@@ -13,12 +13,12 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b %Y"
 
   # generate social links in footer
   social_links:
     twitter: MingxuanXie
-    github:  MingxuanXie
+    github: MingxuanXie
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -33,7 +33,7 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
-
+    #
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -52,9 +52,8 @@ minima:
 # theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Use GitHub Flavored Markdown 
+# Use GitHub Flavored Markdown
 markdown: CommonMarkGhPages
-
