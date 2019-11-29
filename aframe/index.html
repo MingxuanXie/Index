@@ -11,189 +11,179 @@
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Mingxuan's Creative Works</title>
-    <meta name="description" content="Ming (Mingxuan Xie) is a cyberspace creator, designer and programmer. ">
 
-<!-- SCRIPTS-->
+<head>
+  <meta charset="utf-8">
+  <title>Mingxuan's Creative Works</title>
+  <meta name="description" content="Ming (Mingxuan Xie) is a cyberspace creator, designer and programmer. ">
 
-    <!-- aframe.js to be replaced -->
-    <!-- <script src="./js/aframe.min.js"></script> -->
-    <script src="./js/aframe.min.js"></script>
-    <script src="./js/hypermove.js"></script>
-    <script src="./js/noise.js"></script>
-    <script src="./js/aframe-look-at-component.min.js"></script>
-    <script src="https://unpkg.com/aframe-particle-system-component@1.0.x/dist/aframe-particle-system-component.min.js"></script>
-    <script>
-      AFRAME.registerComponent('navigate-on-click', {
-        schema: {
-          url: {default: ''}
-        },
+  <!-- SCRIPTS-->
 
-        init: function () {
-          var data = this.data;
-          var el = this.el;
+  <!-- aframe.js to be replaced -->
+  <!-- <script src="./js/aframe.min.js"></script> -->
+  <script src="./js/aframe.min.js"></script>
+  <script src="./js/hypermove.js"></script>
+  <script src="./js/noise.js"></script>
+  <script src="./js/aframe-look-at-component.min.js"></script>
+  <script
+    src="https://unpkg.com/aframe-particle-system-component@1.0.x/dist/aframe-particle-system-component.min.js"></script>
+  <script>
+    AFRAME.registerComponent('navigate-on-click', {
+      schema: {
+        url: { default: '' }
+      },
 
-          el.addEventListener('click', function () {
-            window.location.href = data.url;
-          });
-        }
-      });        
-    </script>
+      init: function () {
+        var data = this.data;
+        var el = this.el;
 
-  </head>
-  <body>
-    <a-scene>
-<!-- SCENE SETTINGS -->
+        el.addEventListener('click', function () {
+          window.location.href = data.url;
+        });
+      }
+    });        
+  </script>
+
+</head>
+
+<body>
+  <a-scene vr-mode-ui="enabled: false">
+    <!-- SCENE SETTINGS -->
 
     <!-- fog setting will break scene -->
-    <!-- <a-scene fog="type: exponential; color: blue; density: 0.3"> -->
+    <!-- <a-scene fog="type: exponential; color: blue; density: 0.0003"> -->
 
-<!-- Assets -->
+    <!-- Assets -->
 
-      <a-assets>
+    <a-assets>
 
-        <!-- IMAGE -->
+      <!-- IMAGE -->
+      <img id="HyperDunhuang" src="./assets/hyperdunhuang.jpg">
+      <img id="HyperFestBritain01" src="./assets/HyperFest_of_Britain_5.1.jpg">
+      <img id="HyperFestBritain02" src="./assets/HyperFest_of_Britain_7.1.jpg">
+      <img id="HyperFestBritain03" src="./assets/HyperFest_of_Britain_body2.jpg">
+      <img id="HyperFestBritain04" src="./assets/HyperFest_of_Britain_heart.jpg">
+      <img id="sky" src="./assets/background.jpg">
+      <img id="HyperBody_Level2" src="./assets/HyperBody_Level2.png">
+      <img id="HyperBody_Level3" src="./assets/HyperBody_Level3.png">
+      <img id="HyperBody_Level8" src="./assets/HyperBody_Level8.png">
+      <img id="Hyperbation_Pachinko" src="./assets/Hyperbation_Pachinko_leveldesign.png">
 
-          <img id="HyperDunhuang" src="./assets/hyperdunhuang.jpg">
-          <img id="HyperFestBritain01" src="./assets/HyperFest_of_Britain_5.1.jpg">
-          <img id="HyperFestBritain02" src="./assets/HyperFest_of_Britain_7.1.jpg">
-          <img id="HyperFestBritain03" src="./assets/HyperFest_of_Britain_body2.jpg">
-          <img id="HyperFestBritain04" src="./assets/HyperFest_of_Britain_heart.jpg">
-          <img id="sky" src="./assets/HyperFest_of_Britain_1.jpg">
-          <img id="HyperBody_Level2" src="./assets/HyperBody_Level2.png">
-          <img id="HyperBody_Level3" src="./assets/HyperBody_Level3.png">
-          <img id="HyperBody_Level8" src="./assets/HyperBody_Level8.png">
-          <img id="Hyperbation_Pachinko" src="./assets/Hyperbation_Pachinko_leveldesign.png">
+      <!-- MODEL -->
+      <a-asset-item id="3DdanmakuTest_obj" src="./assets/3DdanmakuTest.obj"></a-asset-item>
+      <a-asset-item id="3DdanmakuTest_mtl" src="./assets/3DdanmakuTest.mtl"></a-asset-item>
+      <a-asset-item id="CrabMing_obj" src="./assets/CrabMing_obj/CrabMing.obj"></a-asset-item>
+      <a-asset-item id="CrabMing_mtl" src="./assets/CrabMing_obj/CrabMing.mtl"></a-asset-item>
 
-        <!-- MODEL -->
+      <!-- Mixins -->
 
-          <a-asset-item id="3DdanmakuTest_obj" src="./assets/3DdanmakuTest.obj"></a-asset-item>
-          <a-asset-item id="3DdanmakuTest_mtl" src="./assets/3DdanmakuTest.mtl"></a-asset-item>
-          <a-asset-item id="CrabMing_obj" src="./assets/CrabMing_obj/CrabMing.obj"></a-asset-item>
-          <a-asset-item id="CrabMing_mtl" src="./assets/CrabMing_obj/CrabMing.mtl"></a-asset-item>    
+      <a-mixin id="title" text="font: mozillavr" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
+      <a-mixin id="text" text="font: mozillavr" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
+      <a-mixin id="hyperfest_img" scale="0.5 0.5 0.5" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
+      <a-mixin id="metadata" text="color: yellow" scale="1 1 1" position="0 0 -0.5"></a-mixin>
+      
+    </a-assets>
 
-        <!-- Mixins -->
+    <!-- CONTENT -->
 
-          <a-mixin id="title" text="font: mozillavr" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
-          <a-mixin id="text" text="font: mozillavr" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
-          <a-mixin id="hyperfest_img" scale="0.5 0.5 0.5" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
-          <a-mixin id="metadata" text="color: yellow" scale="1 1 1" position="0 0 -0.5"></a-mixin>
+    <!-- Enviroment Settings -->
+    <a-entity cursor="rayOrigin:mouse"></a-entity>
+    <a-sky rotation="0 -89.5 0" color="" src="#sky" material="fog:false"></a-sky>
+    <a-entity position="0 2.25 -15" rotation="180 0 0" particle-system="preset: snow; color: yellow"></a-entity>
 
-        <!-- Animation Mixin Test-->
-
-          <!-- <a-mixin id="TextRotation" position="0 0 0">
-            <a-animation attribute="rotation" to="0 360 0" repeat="indefinite"></a-animation>
-          </a-mixin> -->    
-
-      </a-assets>
-
-<!-- CONTENT -->
-      <!-- Enviroment Settings -->
-
-      <a-entity cursor="rayOrigin:mouse"></a-entity>
-      <a-sky color="magenta" src="#sky" material="fog:false"></a-sky>
-      <a-entity position="0 2.25 -15" rotation="180 0 0" particle-system="preset: snow; color: yellow"></a-entity>
-
-      <!-- Add Camera -->
-
-      <a-entity position="0 0 0" camera look-controls wasd-controls>
-        <a-entity id="#Hyperbation_Pachinko_metadata" mixin="metadata" text="value: This is a test" visible="true"></a-entity>
+    <!-- Add Camera -->
+    <a-entity position="0 0 0" camera look-controls wasd-controls>
+      <a-entity position="0 -0.25 -0.5" text="value: [ Website under development =v= ]; color: orange; align: center"
+        visible="true">
       </a-entity>
+    </a-entity>
 
-      <!-- Contents -->
+    <!-- Contents -->
 
-      <a-entity obj-model="obj: #CrabMing_obj" position="0 0 -1"  hypermove="factor:0.01">
-        <a-animation attribute="rotation" dur="10000" fill="forwards" to="0 360 0" repeat="indefinite" easing="linear"></a-animation>
-      </a-entity>
+    <a-entity obj-model="obj: #CrabMing_obj" position="0 0 -1" hypermove="factor:0.01">
+      <a-animation attribute="rotation" dur="10000" fill="forwards" to="0 360 0" repeat="indefinite" easing="linear">
+      </a-animation>
+    </a-entity>
 
-      <a-entity id="Images">
-          <a-image mixin="hyperfest_img" src="#HyperFestBritain01" position="1 0 -1"></a-image>
-          <a-image mixin="hyperfest_img" src="#HyperFestBritain02" position="1 0 -1"></a-image>
-          <a-image mixin="hyperfest_img" src="#HyperFestBritain03" position="1 0 -1"></a-image>
-          <a-image mixin="hyperfest_img" src="#HyperFestBritain04" position="1 0 -1"></a-image>
-          <a-image mixin="hyperfest_img" src="#HyperDunhuang" position="1 0 -1" scale="0.6 0.4 0.2"></a-image>
-          <a-animation attribute="rotation" dur="12000" fill="forwards" to="0 360 0" repeat="indefinite" easing="linear"></a-animation>
-      </a-entity>
+    <a-entity id="Images">
+      <a-image mixin="hyperfest_img" src="#HyperFestBritain01" position="1.5 0 -1"></a-image>
+      <a-image mixin="hyperfest_img" src="#HyperFestBritain02" position="4 -1 -1"></a-image>
+      <a-image mixin="hyperfest_img" src="#HyperFestBritain03" position="2 1 -1"></a-image>
+      <a-image mixin="hyperfest_img" src="#HyperFestBritain04" position="-1 -0.5 -1"></a-image>
+      <a-image mixin="hyperfest_img" src="#HyperDunhuang" position="1 0 -1" scale="0.6 0.4 0.2"></a-image>
+      <a-animation attribute="rotation" dur="12000" fill="forwards" to="0 360 0" repeat="indefinite" easing="linear">
+      </a-animation>
+    </a-entity>
 
-      <a-image src="#HyperBody_Level3" position="-1 0 -2"  hypermove="factor:0.01" look-at="[camera]">
-        <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
-        <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>  
-       </a-image>
-      <a-image src="#HyperBody_Level8" position="-1 0 -3"  hypermove="factor:0.01" look-at="[camera]">
-        <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
-        <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>  
-      </a-image>
-      <a-image src="#HyperBody_Level2" position="-1 0 -4"  hypermove="factor:0.01" look-at="[camera]">
-        <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
-        <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>  
-        <a-animation begin="mousedown" attribute="hypermove.factor" to="0" dur="0"></a-animation>
-        <a-animation begin="mouseup" attribute="hypermove.factor" to="0.01" dur="0"></a-animation>
-      </a-image>
-      <a-image src="#Hyperbation_Pachinko" width="0.3" height="0.7" position="0 0 -1"  hypermove="factor:0.01" look-at="[camera]">
-        <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
-        <a-animation begin="mouseup" attribute="position" to="0 0 -1" dur="1000"></a-animation>  
-        <a-animation begin="mousedown" attribute="hypermove.factor" to="0" dur="0"></a-animation>
-        <a-animation begin="mouseup" attribute="hypermove.factor" to="0.01" dur="0"></a-animation>
-      </a-image>
+    <a-image src="#HyperBody_Level3" position="-1 0 -2" hypermove="factor:0.01" look-at="[camera]">
+      <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
+      <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>
+    </a-image>
+    <a-image src="#HyperBody_Level8" position="-1 0 -3" hypermove="factor:0.01" look-at="[camera]">
+      <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
+      <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>
+    </a-image>
+    <a-image src="#HyperBody_Level2" position="-1 0 -4" hypermove="factor:0.01" look-at="[camera]">
+      <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
+      <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>
+      <a-animation begin="mousedown" attribute="hypermove.factor" to="0" dur="0"></a-animation>
+      <a-animation begin="mouseup" attribute="hypermove.factor" to="0.01" dur="0"></a-animation>
+    </a-image>
+    <a-image src="#Hyperbation_Pachinko" width="0.3" height="0.7" position="0 0 -1" hypermove="factor:0.01"
+      look-at="[camera]">
+      <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
+      <a-animation begin="mouseup" attribute="position" to="0 0 -1" dur="1000"></a-animation>
+      <a-animation begin="mousedown" attribute="hypermove.factor" to="0" dur="0"></a-animation>
+      <a-animation begin="mouseup" attribute="hypermove.factor" to="0.01" dur="0"></a-animation>
+    </a-image>
 
-      <!-- HyperMove Box-->
+    <!-- HyperMove Box-->
 
-      <!-- <a-box position="-1 3 -3" rotation="0 45 0"material="shader: standard; color: red;" hypermove>
+    <!-- <a-box position="-1 3 -3" rotation="0 45 0"material="shader: standard; color: red;" hypermove>
           <a-animation begin="mousedown" attribute="scale" to="2 2 2" dur="1000"></a-animation>
           <a-animation begin="mouseup" attribute="scale" to="1 1 1" dur="1000"></a-animation>      
       </a-box> -->
 
-      <!-- TEXT -->
-      <!-- Download font locally and use mixin to set font for all text -->
+    <!-- TEXT -->
+    <!-- Download font locally and use mixin to set font for all text -->
 
-      <a-entity mixin="title" text="value: VRchitecture Manifesto" position="1 0 -1"></a-entity>
-      <a-entity mixin="title" text="value: God is dead, so is architecture.;color: yellow" position="1 0 -1"></a-entity>
-      <a-entity mixin="title" text="value: MINGXUAN XIE" position="1 2 -1"></a-entity>
-      <a-entity mixin="title" text="value: Hyperbation" position="1 2 -1"></a-entity>
-      <a-entity mixin="title" text="value: Cyberspace" position="1 2 -1"></a-entity>
-      <a-entity mixin="title" text="value: HyperSite" position="1 0 -1"></a-entity>
-      <a-entity mixin="text" text="value: Github" position="1 2 -1"></a-entity>
-      <a-entity mixin="text" text="value: LinkedIn;" position="1 2 -1"></a-entity>
-      <a-entity mixin="text" text="value: Vimeo;" position="1 2 -1"></a-entity>
+    <a-entity mixin="title" text="value: VRchitecture Manifesto" position="1 0 -1"></a-entity>
+    <a-entity mixin="title" text="value: God is dead, so is architecture.;color: yellow" position="1 0 -1"></a-entity>
+    <a-entity mixin="title" text="value: MINGXUAN XIE" position="1 1 -1"></a-entity>
+    <a-entity mixin="title" text="value: Hyperbation" position="1 1 -1"></a-entity>
+    <a-entity mixin="title" text="value: Cyberspace" position="1 1 -1"></a-entity>
+    <a-entity mixin="title" text="value: HyperSite" position="1 0 -1"></a-entity>
+    <a-entity mixin="text" text="value: Github" position="1 1 -1"></a-entity>
+    <a-entity mixin="text" text="value: LinkedIn;" position="1 1 -1"></a-entity>
+    <a-entity mixin="text" text="value: Vimeo;" position="1 1 -1"></a-entity>
 
-      <!-- Liquid Architecture -->
+    <!-- Liquid Architecture -->
+    <a-entity geometry="primitive: sphere; radius: 0.1" material="shader: noise; color: red" position="0 -1.5 -2"
+      scale="2 2 2" rotation="45 45 0" hypermove="factor:0.02"></a-entity>
 
-      <a-entity geometry="primitive: sphere; radius: 0.1" material="shader: noise; color: red" position="0 1 -2" rotation="45 45 0" hypermove="factor:0.1"></a-entity>
-    
-      <!-- Another Danmaku Test Version -->
+    <!-- Another Danmaku Test Version -->
+    <a-entity id="Bar" position="0 0 0" rotation="0 -90 0">
+      <a-entity id="Introduction"
+        text="value: Ming (Mingxuan Xie) is a a Vrchitect / Indie Dev / Live Coder / XR Innovator / Member of Hyperbation Art Duo; font: mozillavr; color: yellow; wrapCount: 100; align: center"
+        position="0 -0.15 -1" scale="3 3 3" look-at="[camera]"></a-entity>
+      <a-animation attribute="rotation" dur="20000" fill="forwards" to="0 270 0" repeat="indefinite" easing="linear">
+      </a-animation>
+    </a-entity>
 
-      <a-entity id="Bar" position="0 0 0">
-        <a-entity id="Introduction" text="value: Ming (Mingxuan Xie) is a cyberspace designer, creator and programmer; font: mozillavr; color: white; wrapCount: 60;" position="0 0 -1" color="#FF0000" look-at="[camera]"></a-entity>
-        <a-animation attribute="rotation"
-        dur="50000"
-        fill="forwards"
-        to="0 360 0"
-        repeat="indefinite"
-        easing="linear"></a-animation>
-      </a-entity>
+    <!-- Scaleble Text Test-->
 
-      <!-- Scaleble Text Test-->
+    <a-entity id="TEST" geometry="primitive: plane; width: 4; height: auto" material="color: blue"
+      text="value: This text will be 4 units wide." position="0 2 -2">
+    </a-entity>
 
-      <a-entity id="TEST"
-        geometry="primitive: plane; width: 4; height: auto"
-        material="color: blue"
-        text="value: This text will be 4 units wide."
-        position="0 2 -2">
-      </a-entity>
+    <!-- 3D Danmaku Test Using Script-->
 
-      <!-- 3D Danmaku Test Using Script-->
+    <a-entity id="3D Danmaku Test" obj-model="obj: #3DdanmakuTest_obj" position="0 1 0" scale="0.5 0.5 0.5">
+      <a-animation attribute="rotation" dur="10000" fill="forwards" to="0 360 0" repeat="indefinite" easing="linear">
+      </a-animation>
+    </a-entity>
 
-      <a-entity id="3D Danmaku Test" obj-model="obj: #3DdanmakuTest_obj" position="0 0 0" scale="0.5 0.5 0.5">
-          <a-animation attribute="rotation"
-          dur="10000"
-          fill="forwards"
-          to="0 360 0"
-          repeat="indefinite"
-          easing="linear"></a-animation>
-      </a-entity>
+  </a-scene>
+</body>
 
-    </a-scene>
-  </body>
 </html>

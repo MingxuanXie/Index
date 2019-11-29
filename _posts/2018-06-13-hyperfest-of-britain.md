@@ -2,6 +2,9 @@
 layout: post
 title: "不列顛超級盛會 | HyperFest of Britain"
 ---
+<iframe src="https://player.vimeo.com/video/311727885?color=fcabfc&amp;title=0&amp;byline=0&amp;portrait=0" width="740" height="370" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+##### _HyperFest of Britain, VR Video Experience on Vimeo, 03:48, London, UK, 2018_
 
 以第三次世界大戰後末世狀態的英國爲背景，2051年不列顛超級盛會是一個定位在倫敦南岸银禧花园（1951年不列顛節原址）的虛構建築項目。整個項目使用數字定位技術加上混合現實技術，在現實的廢墟上呈現出一場虛擬的盛會，企圖將英國歷史上著名的1851年萬國博覽會，1951年不列颠节以及2000年千禧年展的内容重新混合並重新創造出新的超級盛會以給予戰後沒落的英國人民虛擬(假)的鼓勵。
 

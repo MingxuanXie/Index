@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+{%- include head.html -%}
 
-  <body>
+<body>
 
-    {%- include header.html -%}
+  <iframe src="../aframe/" style="position: fixed; border: none; height: 100%; width: 100%; overflow: hidden;
+  z-index: -9999;">Your out-dated browser
+    doesn't support iFrames.您的傻逼瀏覽器不支持內嵌網頁 </iframe>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+  {%- include header.html -%}
 
-    {%- include footer.html -%}
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
 
-  </body>
+  {%- include footer.html -%}
+
+</body>
 
 </html>
