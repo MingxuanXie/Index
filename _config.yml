@@ -1,7 +1,6 @@
 title: Mingxuan Creative Works
 author: Mingxuan Xie
-email:
-  designer.mingxuan@gmail.com
+email: designer.mingxuan@gmail.com
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
@@ -57,3 +56,13 @@ plugins:
 
 # Use GitHub Flavored Markdown
 markdown: CommonMarkGhPages
+
+# Exclude certain directory and files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - package.json
+  - MarkdownCheatsheet.md
+  - /projects
