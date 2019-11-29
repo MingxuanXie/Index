@@ -66,3 +66,4 @@ exclude:
   - package.json
   - MarkdownCheatsheet.md
   - /projects
+  - minimaREADME.md
