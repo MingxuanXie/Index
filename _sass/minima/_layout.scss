@@ -122,19 +122,21 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 5px solid $grey-color;
   padding: $spacing-unit 0;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
+  background-color: yellow;
 }
 
 .contact-list,
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  background-color: yellow;
 }
 
 .footer-col-wrapper {
@@ -142,6 +144,7 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+  background-color: yellow;
 }
 
 .footer-col {
@@ -149,17 +152,22 @@
   width:         calc(100% - (#{$spacing-unit} / 2));
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
+  background-color: blue;
 }
 
-.footer-col-1,
+.footer-col-1 {
+  background-color: yellow;
+}
 .footer-col-2 {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
+  background-color: yellow;
 }
 
 .footer-col-3 {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
+  background-color: yellow;
 }
 
 @media screen and (min-width: $on-large) {
@@ -204,7 +212,7 @@
 }
 
 .post-list {
-  background-color: lightgreen;
+  background-color: rgb(118, 255, 97);
   padding: 5px;
   margin-left: 0;
   list-style: none;
@@ -301,12 +309,3 @@
     width:         calc(50% - (#{$spacing-unit} / 2));
   }
 }
-
-// div.transbox {
-//   background-color: #ffffff;
-//   border: none;
-//   height: auto; 
-//   width: 100%;
-//   // opacity: 0.6;
-//   // filter: alpha(opacity=60); /* For IE8 and earlier */
-// }
