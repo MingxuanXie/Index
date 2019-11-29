@@ -204,6 +204,8 @@
 }
 
 .post-list {
+  background-color: lightgreen;
+  padding: 5px;
   margin-left: 0;
   list-style: none;
 
@@ -244,7 +246,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-
+  background-color: deeppink;
+  padding: 5px;
   h2 {
     @include relative-font-size(1.75);
 
@@ -298,3 +301,12 @@
     width:         calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+// div.transbox {
+//   background-color: #ffffff;
+//   border: none;
+//   height: auto; 
+//   width: 100%;
+//   // opacity: 0.6;
+//   // filter: alpha(opacity=60); /* For IE8 and earlier */
+// }

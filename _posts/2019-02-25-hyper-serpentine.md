@@ -5,7 +5,6 @@ title: "超蛇形畫廊 | HyperSerpentine"
 ---
 <iframe src="https://player.vimeo.com/video/319232605?color=fcabfc&amp;title=0&amp;byline=0&amp;portrait=0" width="740" height="416" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
- title=0 sidedock=0 controls=0
 ##### _HyperSerpentine, Demo video, London, UK, 2019_
 
 Hyper Serpentine is a framework for constructing a long lasting hyperlocal virtual exhibition that uses geo-located mixed reality technologies to recreate the three major exhibitions throughout the history of Britain – the 1851 Great Exhibition, the 1951 Festival of Britain and the 2000 Millennium Experience by remixing the recreated 3D models of the key structures from the three exhibitions with past Serpentine Pavilions and other notable buildings as well as 3D scans of exhibits collected in London. 

@@ -1,10 +1,9 @@
-<!-- Mingxuan Xie 2019 -->
+<!-- Build by Mingxuan Xie using Aframe -->
 
 <!-- DevNotes -->
 
-<!-- Scale image to proper ratio -->
 <!-- Show metadata when mouse hover -->
-<!-- Add two PDF portfilio for Archtiecture Works & Vrchitecture Works -->
+<!-- Add PDF portfilio for Vrchitecture Works -->
 <!-- Add in All social platform icon&link -->
 <!-- Aframe 0.9.0 break animation -->
 <!-- Animation slow phones -->
@@ -15,7 +14,6 @@
 <head>
   <meta charset="utf-8">
   <title>Mingxuan's Creative Works</title>
-  <meta name="description" content="Ming (Mingxuan Xie) is a cyberspace creator, designer and programmer. ">
 
   <!-- SCRIPTS-->
 
@@ -48,6 +46,7 @@
 
 <body>
   <a-scene vr-mode-ui="enabled: false">
+
     <!-- SCENE SETTINGS -->
 
     <!-- fog setting will break scene -->
@@ -148,7 +147,7 @@
     <!-- Download font locally and use mixin to set font for all text -->
 
     <a-entity mixin="title" text="value: VRchitecture Manifesto" position="1 0 -1"></a-entity>
-    <a-entity mixin="title" text="value: God is dead, so is architecture.;color: yellow" position="1 0 -1"></a-entity>
+    <a-entity mixin="title" text="value: God is dead, so is architecture.;color: red" position="1 0 -1"></a-entity>
     <a-entity mixin="title" text="value: MINGXUAN XIE" position="1 1 -1"></a-entity>
     <a-entity mixin="title" text="value: Hyperbation" position="1 1 -1"></a-entity>
     <a-entity mixin="title" text="value: Cyberspace" position="1 1 -1"></a-entity>
@@ -164,7 +163,7 @@
     <!-- Another Danmaku Test Version -->
     <a-entity id="Bar" position="0 0 0" rotation="0 -90 0">
       <a-entity id="Introduction"
-        text="value: Ming (Mingxuan Xie) is a a Vrchitect / Indie Dev / Live Coder / XR Innovator / Member of Hyperbation Art Duo; font: mozillavr; color: yellow; wrapCount: 100; align: center"
+        text="value: Ming (Mingxuan Xie) is a a Vrchitect / Indie Dev / Live Coder / XR Innovator; font: mozillavr; color: grey; wrapCount: 100; align: center"
         position="0 -0.15 -1" scale="3 3 3" look-at="[camera]"></a-entity>
       <a-animation attribute="rotation" dur="20000" fill="forwards" to="0 270 0" repeat="indefinite" easing="linear">
       </a-animation>
