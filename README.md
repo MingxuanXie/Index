@@ -7,5 +7,5 @@ This is a website built using Jekyll by Mingxuan Xie to show his creative portfo
 export PATH=/usr/local/opt/ruby/bin:$PATH
 bundle exec jekyll serve
 ```
-### Generating Faivcon
+### Generating Favicon
 https://favicon.io/favicon-converter/
