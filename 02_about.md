@@ -9,21 +9,21 @@ Mingxuan Xie is a Vrchitect / Indie Dev / Live Coder / XR Innovator / Member of 
 ### Experience:
 
 ```
-October 2018 – March 2019, China
+2018 – 2019, China
 Research Fellow at Digital Earth Fellowship
 
-August 2015 – August 2016, Shanghai, China
+2015 – 2016, Shanghai, China
 Architectural Assistant at UNStudio
 
-July 2014 – July 2015, Manchester, United Kingdom
+2014 – 2015, Manchester, United Kingdom
 RIBA Part I Architectural Assistant at Sheppard Robson Architects
 ```
 
 ### Exhibition:
 
 ```
-2019, Club All: Hyper Reality & Maximalism & Modern China, Jerusalem Design Week
-
+2019, Jerusalem Design Week, Jerusalem, Israel
+Club All: Hyper Reality & Maximalism & Modern China
 
 2019, Wikitopia Visions, Ginza Sony Park, Japan
 HyperGameFest
@@ -61,10 +61,10 @@ HyperFest of Britain: The Virtual Dome of Rediscovery
 ### Research:
 
 ```
-October 2018 – March 2019, China
+2018 – 2019, China
 HyperBody: In Searching for Alternative Digital Silk Roads
 
-October 2017 – March 2018, London, UK
+2017 – 2018, London, UK
 HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology
 ```
 
