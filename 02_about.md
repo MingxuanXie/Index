@@ -22,22 +22,31 @@ RIBA Part I Architectural Assistant at Sheppard Robson Architects
 ### Exhibition:
 
 ```
-November 2018,  Minority Space, Beijing, China
+2019, Club All: Hyper Reality & Maximalism & Modern China, Jerusalem Design Week
+
+
+2019, Wikitopia Visions, Ginza Sony Park, Japan
+HyperGameFest
+
+2019, Zhijiang International Youth Art Festival, Hangzhou, China
+NPCplay
+
+2019, Dimension Art Centre, Chongqing, China
 Hyperbody: HyperFeast of Chungking Cannibalism Hotpot
 
-November 2018,  Minority Space, Beijing, China
+2018, Minority Space, Beijing, China
 Hyperbody: Hyper-Religious Body
 
-August 2018, Paradise AIR, Matsudo, Japan
+2018, Paradise AIR, Matsudo, Japan
 Hyperbation: Pachinko!
 
-July 2018, Zero to One Gallery, London, UK
+2018, Zero to One Gallery, London, UK
 Hyperbation: CAVE
 
-Jun 2018, London Festival of Architecture, London, UK
+2018, London Festival of Architecture, London, UK
 Hyperbation: AA Zoo School
 
-Jun 2018, University of Greenwich, London, UK
+2018, University of Greenwich, London, UK
 HyperFest of Britain: The Virtual Dome of Rediscovery
 ```
 
