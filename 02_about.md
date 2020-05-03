@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Mingxuan Xie is a Vrchitect / Indie Dev / Live Coder / XR Innovator / Member of [Hyperbation](http://hyperbation.space) Art Duo.
+Mingxuan Xie is a Vrchitect / Indie Dev / Live Coder / XR Innovator / Founder of [Vrch](http://vrch.tech) and Member of [Hyperbation](http://hyperbation.space) Art Duo.
 
 ### Experience:
 
 ```
+2019 - London, UK
+Founder and Director of Vrch Limited
+
 2018 – 2019, China
 Research Fellow at Digital Earth Fellowship
 
