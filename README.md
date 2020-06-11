@@ -9,3 +9,6 @@ bundle exec jekyll serve
 ```
 ### Generating Favicon
 https://favicon.io/favicon-converter/
+
+### Change Font
+https://stackoverflow.com/questions/54138066/changing-the-font-in-jekyll-minima-default-theme
