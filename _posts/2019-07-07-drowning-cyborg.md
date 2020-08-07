@@ -3,7 +3,7 @@ layout: post
 title: "溺水的電子人 | The Drowning Cyborg"
 # categories: misc
 ---
-[CiGA Game Jam 2019閔行區決賽入圍作品](https://www.youxibd.com/gamejam/detail/101)
+[**CiGA Game Jam 2019閔行區決賽入圍作品**](https://www.youxibd.com/gamejam/detail/101)
 
 >CiGA Game Jam（簡稱CGJ）是華人遊戲圈最大的線下48小時遊戲極限開發活動，專註於遊戲領域的創意開發，鼓勵對遊戲熱愛和有開發熱情的人群聚集在壹起，通過遊戲創作這壹形式和過程進行頭腦風暴、經驗分享以及自我表達。通過壹個周末的時間喚醒遊戲的創意理念並同時體驗遊戲的開發過程，包括編程、互動設計、敘事探索、美術設計，都將在48小時內完成。CIGA鼓勵各界人士積極參與到這壹全球性的對於遊戲開發創意探索的活動中來。
 
