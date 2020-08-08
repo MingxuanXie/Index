@@ -3,8 +3,8 @@ layout: post
 title: " 超盛筵巴渝吃人火鍋 | The HyperFeast of Chungking Cannibalism Hotpot"
 # categories: misc
 ---
-![alt text](/assets/hyperfeast-ck-hotpot/1.jpg "The HyperFeast of Chungking Cannibalism Hotpot, The physical hotpot installation, Chongqing Dimension Art Center, China, 2019. Photo by Burning Bear")
-##### _The HyperFeast of Chungking Cannibalism Hotpot, The physical hotpot installation, Chongqing Dimension Art Center, China, 2019. Photo by Burning Bear_
+![alt text](/assets/hyperfeast-ck-hotpot/1.jpg "The HyperFeast of Chungking Cannibalism Hotpot, The physical hotpot installation, Chongqing Dimension Art Center, China, 2019. Photo by Burning Bear")  
+##### _The HyperFeast of Chungking Cannibalism Hotpot, The physical hotpot installation, Chongqing Dimension Art Center, China, 2019. Photo by Burning Bear_ 
 
 [**Curatorial Preface**](http://chongqingdac.org/article/page?id=276)  
 This work is part of the “HyperBody” series by Hyperbation art duo.
