@@ -13,8 +13,8 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
-  letter-spacing: -1px;
+  font-weight: 550;
+  letter-spacing: 10px;
   margin-bottom: 0;
   float: left;
 
@@ -116,35 +116,56 @@
   }
 }
 
+/**
+ * Next & Previous page
+ */
+
+.PageNavigation {
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
 
 
 /**
  * Site footer
  */
 .site-footer {
-  border-top: 5px solid $grey-color;
+  // border-top: 5px solid $grey-color;
   padding: $spacing-unit 0;
+  // visibility: collapse;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
-  background-color: yellow;
+  // visibility: collapse;
 }
 
 .contact-list,
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  background-color: yellow;
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
+  @include relative-font-size(1.0);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  // margin-left: -$spacing-unit / 2;
   @extend %clearfix;
-  background-color: yellow;
+  background-color: rgba(225, 255, 0, 0.8);
+  backdrop-filter: blur(6px);
 }
 
 .footer-col {
@@ -152,22 +173,21 @@
   width:         calc(100% - (#{$spacing-unit} / 2));
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-  background-color: blue;
+  // background-color: blue;
 }
 
-.footer-col-1 {
-  background-color: yellow;
-}
+// .footer-col-1 {
+//   visibility: collapse;
+// }
+
 .footer-col-2 {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
-  background-color: yellow;
 }
 
 .footer-col-3 {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
-  background-color: yellow;
 }
 
 @media screen and (min-width: $on-large) {
@@ -212,10 +232,11 @@
 }
 
 .post-list {
-  background-color: rgb(118, 255, 97);
+  background-color: rgba(118, 255, 97, 0.75);
   padding: 5px;
   margin-left: 0;
   list-style: none;
+  backdrop-filter: blur(7px);
 
   > li {
     margin-bottom: $spacing-unit;
@@ -254,7 +275,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-  background-color: deeppink;
+  background-color: rgba(255, 20, 147, 0.8);
+  backdrop-filter: blur(8px);
   padding: 5px;
   h2 {
     @include relative-font-size(1.75);

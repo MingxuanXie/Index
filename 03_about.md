@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:  簡介 Bio 
 permalink: /about/
 ---
 
@@ -20,6 +20,12 @@ Architectural Assistant at UNStudio
 
 2014 – 2015, Manchester, United Kingdom
 RIBA Part I Architectural Assistant at Sheppard Robson Architects
+```
+
+### Awards:
+```
+2020, University of Greenwich Generator Bursary
+2019, Wikitopia International Competition Finalist (優秀賞)
 ```
 
 ### Exhibition:
@@ -71,13 +77,18 @@ HyperBody: In Searching for Alternative Digital Silk Roads
 HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology
 ```
 
+### Media Coverage:
+```
+2020 澎湃新聞 https://www.thepaper.cn/newsDetail_forward_6491540
+```
+
 ### Education:
 
 ```
 2016 – 2018, University of Greenwich, UK
 Master of Architecture, RIBA Part II
 
-2010 – 2014, University of Liverpool, UK
+2012 – 2014, University of Liverpool, UK
 BA, Architecture, RIBA Part I, 1st Class (Honors)
 
 2010 – 2012, Xi'an Jiaotong-Liverpool University, China

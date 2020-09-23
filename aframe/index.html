@@ -14,44 +14,32 @@
 <head>
   <meta charset="utf-8">
   <title>Mingxuan's Creative Works</title>
-
   <!-- SCRIPTS-->
-  <script src="./js/aframe.min.js"></script>
+  <!-- <script src="./js/aframe.min.js"></script> -->
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
   <script src="./js/hypermove.js"></script>
   <script src="./js/noise.js"></script>
   <script src="./js/aframe-look-at-component.min.js"></script>
-  <script src="./js/aframe-particle-system-component.min.js"></script><script>
-    AFRAME.registerComponent('navigate-on-click', {
-      schema: {
-        url: { default: '' }
-      },
-
-      init: function () {
-        var data = this.data;
-        var el = this.el;
-
-        el.addEventListener('click', function () {
-          window.location.href = data.url;
-        });
-      }
-    });        
-  </script>
-
+  <script src="./js/aframe-particle-system-component.min.js"></script>
+  <script src="./js/navigate-on-click.js"></script>
+  <style>
+    .a-loader-title {
+      visibility: hidden;
+    }
+  </style>
 </head>
 
 <body>
-  <a-scene vr-mode-ui="enabled: false">
+<!-- SCENE SETTINGS -->
+  <a-scene vr-mode-ui="enabled: false" loading-screen="dotsColor: yellow; backgroundColor: pink">
+  <!-- fog setting will break scene -->
+  <!-- <a-scene fog="type: exponential; color: blue; density: 0.0003"> -->
 
-    <!-- SCENE SETTINGS -->
-
-    <!-- fog setting will break scene -->
-    <!-- <a-scene fog="type: exponential; color: blue; density: 0.0003"> -->
-
-    <!-- Assets -->
+<!-- Assets -->
 
     <a-assets>
 
-      <!-- IMAGE -->
+<!-- IMAGE -->
       <img id="HyperDunhuang" src="./assets/hyperdunhuang.jpg">
       <img id="HyperFestBritain01" src="./assets/HyperFest_of_Britain_5.1.jpg">
       <img id="HyperFestBritain02" src="./assets/HyperFest_of_Britain_7.1.jpg">
@@ -63,18 +51,19 @@
       <img id="HyperBody_Level8" src="./assets/HyperBody_Level8.png">
       <img id="Hyperbation_Pachinko" src="./assets/Hyperbation_Pachinko_leveldesign.png">
 
-      <!-- MODEL -->
+<!-- MODEL -->
       <a-asset-item id="3DdanmakuTest_obj" src="./assets/3DdanmakuTest.obj"></a-asset-item>
       <a-asset-item id="3DdanmakuTest_mtl" src="./assets/3DdanmakuTest.mtl"></a-asset-item>
       <a-asset-item id="CrabMing_obj" src="./assets/CrabMing_obj/CrabMing.obj"></a-asset-item>
       <a-asset-item id="CrabMing_mtl" src="./assets/CrabMing_obj/CrabMing.mtl"></a-asset-item>
 
-      <!-- Mixins -->
+<!-- Mixins -->
 
       <a-mixin id="title" text="font: mozillavr" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
       <a-mixin id="text" text="font: mozillavr" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
       <a-mixin id="hyperfest_img" scale="0.5 0.5 0.5" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
       <a-mixin id="metadata" text="color: yellow" scale="1 1 1" position="0 0 -0.5"></a-mixin>
+      <a-mixin id="trans-img" material="alphaTest: 0.15"></a-mixin>
       
     </a-assets>
 
@@ -109,21 +98,21 @@
       </a-animation>
     </a-entity>
 
-    <a-image src="#HyperBody_Level3" position="-1 0 -2" hypermove="factor:0.01" look-at="[camera]">
+    <a-image src="#HyperBody_Level3" mixin="trans-img" position="-1 0 -2" hypermove="factor:0.01" look-at="[camera]">
       <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
       <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>
     </a-image>
-    <a-image src="#HyperBody_Level8" position="-1 0 -3" hypermove="factor:0.01" look-at="[camera]">
+    <a-image src="#HyperBody_Level8"  mixin="trans-img" position="-1 0 -3" hypermove="factor:0.01" look-at="[camera]">
       <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
       <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>
     </a-image>
-    <a-image src="#HyperBody_Level2" position="-1 0 -4" hypermove="factor:0.01" look-at="[camera]">
+    <a-image src="#HyperBody_Level2"  mixin="trans-img" position="-1 0 -4" hypermove="factor:0.01" look-at="[camera]">
       <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
       <a-animation begin="mouseup" attribute="position" to="-1 0 -1" dur="1000"></a-animation>
       <a-animation begin="mousedown" attribute="hypermove.factor" to="0" dur="0"></a-animation>
       <a-animation begin="mouseup" attribute="hypermove.factor" to="0.01" dur="0"></a-animation>
     </a-image>
-    <a-image src="#Hyperbation_Pachinko" width="0.3" height="0.7" position="0 0 -1" hypermove="factor:0.01"
+    <a-image src="#Hyperbation_Pachinko"  mixin="trans-img" width="0.3" height="0.7" position="0 0 -1" hypermove="factor:0.01"
       look-at="[camera]">
       <a-animation begin="mousedown" attribute="position" to="0 0 -0.5" dur="1000"></a-animation>
       <a-animation begin="mouseup" attribute="position" to="0 0 -1" dur="1000"></a-animation>

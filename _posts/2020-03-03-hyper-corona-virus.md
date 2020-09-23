@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ツ走召ぺ冠狀寎毐ゞ | Hyper Coronavirus"
-# categories: misc
+categories: project
 ---
 ![alt text](/assets/hyper-corona-virus/screenshot.jpg "Hyper Coronavirus, Screenshot, Un-contagious Museum, Online, 2020")
 ##### _Hyper Coronavirus, Screenshot, Un-contagious Museum, Online, 2020_
