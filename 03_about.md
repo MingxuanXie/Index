@@ -6,66 +6,71 @@ permalink: /about/
 
 Mingxuan Xie is a Vrchitect / Indie Dev / Live Coder / XR Innovator / Founder of [Vrch](http://vrch.tech) and Member of [Hyperbation](http://hyperbation.space) Art Duo.
 
+
 ### Experience:
 
-```
-2019 - London, UK
-Founder and Director of Vrch Limited
 
-2018 – 2019, China
-Research Fellow at Digital Earth Fellowship
+**2019 - current**  Founder and Director of Vrch Limited, London, UK
 
-2015 – 2016, Shanghai, China
-Architectural Assistant at UNStudio
+2018 - 2019, Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
 
-2014 – 2015, Manchester, United Kingdom
-RIBA Part I Architectural Assistant at Sheppard Robson Architects
-```
+2017 - 2019, Technical Artist and Theorist at [Hyperbation](http://hyperbation.art/)
+
+2015 - 2016, Architectural Assistant at [UNStudio](https://www.unstudio.com/), Shanghai, China
+
+2014 - 2015, Architectural Assistant at [Sheppard Robson Architects](https://www.sheppardrobson.com/), Manchester, UK
+
 
 ### Awards:
-```
-2020, University of Greenwich Generator Bursary
-2019, Wikitopia International Competition Finalist (優秀賞)
-```
 
-### Exhibition:
+| foo | bar |
+| --- | --- |
+| baz | bim |
 
-```
-2019, Jerusalem Design Week, Jerusalem, Israel
-Club All: Hyper Reality & Maximalism & Modern China
+- 2020 University of Greenwich Generator Bursary
 
-2019, Wikitopia Visions, Ginza Sony Park, Japan
+- 2019 Wikitopia International Competition Finalist (優秀賞)
+
+- 2019 CiGA Game Jam Shanghai Minhang Finalist
+
+### Exhibitions:
+- 2020  London Design Festival, London, UK
+
+- 2020  *Hyper Corona Virus*, Un-contagious Museum, online
+
+- 2019  *Club All: Maximalism and Hyperreality in Modern China*  
+        Jerusalem Design Week, Jerusalem, Israel
+
+- 2019 Wikitopia Visions, Ginza Sony Park, Japan
 HyperGameFest
 
-2019, Zhijiang International Youth Art Festival, Hangzhou, China
+- 2019 Zhijiang International Youth Art Festival, Hangzhou, China
 NPCplay
 
-2019, Dimension Art Centre, Chongqing, China
+- 2019 Dimension Art Centre, Chongqing, China
 Hyperbody: HyperFeast of Chungking Cannibalism Hotpot
 
-2018, Minority Space, Beijing, China
+- 2018, Minority Space, Beijing, China
 Hyperbody: Hyper-Religious Body
 
-2018, Paradise AIR, Matsudo, Japan
+- 2018, Paradise AIR, Matsudo, Japan
 Hyperbation: Pachinko!
 
-2018, Zero to One Gallery, London, UK
+- 2018, Zero to One, London, UK
 Hyperbation: CAVE
 
-2018, London Festival of Architecture, London, UK
+- 2018, London Festival of Architecture, London, UK
 Hyperbation: AA Zoo School
 
-2018, University of Greenwich, London, UK
+- 2018, University of Greenwich, London, UK
 HyperFest of Britain: The Virtual Dome of Rediscovery
-```
 
 ### Presentation:
 
-```
 2019 突破次元壁——超體遊戲演示，中國美術學院
 
 2019 超本地與數字遊牧藝術實踐，四川美術學院
-```
+
 
 ### Research:
 
