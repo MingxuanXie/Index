@@ -4,98 +4,72 @@ title:  簡介 Bio
 permalink: /about/
 ---
 
-Mingxuan Xie is a Vrchitect / Indie Dev / Live Coder / XR Innovator / Founder of [Vrch](http://vrch.tech) and Member of [Hyperbation](http://hyperbation.space) Art Duo.
-
+Mingxuan Xie is a Vrchitect / Indie Dev / Live Coder / XR Innovator / Founder of [Vrch](http://vrch.tech) and Member of [Hyperbation](http://hyperbation.space) Art Duo.  
 
 ### Experience:
 
+**2019-PR** Founder and Director of Vrch Limited, London, UK
 
-**2019 - current**  Founder and Director of Vrch Limited, London, UK
+**2018-19** Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
 
-2018 - 2019, Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
+**2017-19** Technical Artist and Theorist at [Hyperbation](http://hyperbation.art/)
 
-2017 - 2019, Technical Artist and Theorist at [Hyperbation](http://hyperbation.art/)
+**2015-16** Architectural Assistant at [UNStudio](https://www.unstudio.com/), Shanghai, China
 
-2015 - 2016, Architectural Assistant at [UNStudio](https://www.unstudio.com/), Shanghai, China
-
-2014 - 2015, Architectural Assistant at [Sheppard Robson Architects](https://www.sheppardrobson.com/), Manchester, UK
+**2014-15** Architectural Assistant at [Sheppard Robson Architects](https://www.sheppardrobson.com/), Manchester, UK
 
 
 ### Awards:
 
-| foo | bar |
-| --- | --- |
-| baz | bim |
+**2020** 
+- University of Greenwich Generator Bursary  
 
-- 2020 University of Greenwich Generator Bursary
-
-- 2019 Wikitopia International Competition Finalist (優秀賞)
-
-- 2019 CiGA Game Jam Shanghai Minhang Finalist
+**2019** 
+- Wikitopia International Competition Finalist (優秀賞)
+- CiGA Game Jam Shanghai Minhang Finalist
 
 ### Exhibitions:
-- 2020  London Design Festival, London, UK
+**2020**  
+- London Design Festival, London, UK
+- *Hyper Corona Virus*, Un-contagious Museum, online
 
-- 2020  *Hyper Corona Virus*, Un-contagious Museum, online
+**2019**
+- *Club All: Maximalism and Hyperreality in Modern China*, Jerusalem Design Week, Israel
+- *HyperGameFest*, Wikitopia Visions, Ginza Sony Park, Japan
+- *NPCplay*, Zhijiang International Youth Art Festival, Hangzhou, China
+- *Hyperbody: HyperFeast of Chungking Cannibalism Hotpot*, Dimension Art Centre, Chongqing, China
 
-- 2019  *Club All: Maximalism and Hyperreality in Modern China*  
-        Jerusalem Design Week, Jerusalem, Israel
-
-- 2019 Wikitopia Visions, Ginza Sony Park, Japan
-HyperGameFest
-
-- 2019 Zhijiang International Youth Art Festival, Hangzhou, China
-NPCplay
-
-- 2019 Dimension Art Centre, Chongqing, China
-Hyperbody: HyperFeast of Chungking Cannibalism Hotpot
-
-- 2018, Minority Space, Beijing, China
-Hyperbody: Hyper-Religious Body
-
-- 2018, Paradise AIR, Matsudo, Japan
-Hyperbation: Pachinko!
-
-- 2018, Zero to One, London, UK
-Hyperbation: CAVE
-
-- 2018, London Festival of Architecture, London, UK
-Hyperbation: AA Zoo School
-
-- 2018, University of Greenwich, London, UK
-HyperFest of Britain: The Virtual Dome of Rediscovery
-
-### Presentation:
-
-2019 突破次元壁——超體遊戲演示，中國美術學院
-
-2019 超本地與數字遊牧藝術實踐，四川美術學院
+**2018**
+- *Hyperbody: Hyper-Religious Body*, Minority Space, Beijing, China
+- *Hyperbation: Pachinko!*, Paradise AIR, Matsudo, Japan
+- *Hyperbation: CAVE*, Zero to One, London, UK
+- *Hyperbation: AA Zoo School*, Architecture Association, London, UK
+- *HyperFest of Britain: The Virtual Dome of Rediscovery*, University of Greenwich, London, UK
 
 
-### Research:
+### Talks:
 
-```
+**2019** 
+- *Breaking Dimensional Boundaries - Hyperbody Game Demo*，China Academy of Art, China
+- *Hyperlocal and Digital Nomad Art Practice*，Sichuan Fine Arts Institute, China
+
+<!-- ### Research:
+
 2018 – 2019, China
 HyperBody: In Searching for Alternative Digital Silk Roads
 
 2017 – 2018, London, UK
-HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology
-```
+HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology -->
 
-### Media Coverage:
-```
-2020 澎湃新聞 https://www.thepaper.cn/newsDetail_forward_6491540
-```
+<!-- ### Media Coverage:
+
+2020 澎湃新聞 https://www.thepaper.cn/newsDetail_forward_6491540 -->
+
 
 ### Education:
 
-```
-2016 – 2018, University of Greenwich, UK
-Master of Architecture, RIBA Part II
+**2016-18** Master of Architecture, RIBA Part II, University of Greenwich, UK
 
-2012 – 2014, University of Liverpool, UK
-BA, Architecture, RIBA Part I, 1st Class (Honors)
+**2012-14** BA Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
 
-2010 – 2012, Xi'an Jiaotong-Liverpool University, China
-BEng, Architecture, 1st Class (Honors)
-```
+**2010-12** BEng Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China
