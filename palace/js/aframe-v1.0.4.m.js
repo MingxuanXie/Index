@@ -71265,7 +71265,7 @@ module.exports.Component = registerComponent('device-orientation-permission-ui',
     // Show dialog only if permission has not yet been granted.
     DeviceOrientationEvent.requestPermission().catch(function () {
       self.devicePermissionDialogEl = createPermissionDialog(
-        'Please enable your device motion sensors to have better immersive experience<br>請開啓設備陀螺儀以獲得更佳體驗',
+        'Please enable your device motion sensors to have better immersive experience<br><br>請開啓設備陀螺儀以獲得更佳體驗',
         self.onDeviceMotionDialogAllowClicked,
         self.onDeviceMotionDialogDenyClicked);
       self.el.appendChild(self.devicePermissionDialogEl);

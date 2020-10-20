@@ -23,5 +23,6 @@
     }
 .a-dialog-ok-button {
     font: PingFangSC-Bold, 'Ubuntu Mono', monospace;
+    color: deeppink;
     background-color: yellow;
     }
