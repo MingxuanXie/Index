@@ -8,15 +8,20 @@
     backdrop-filter: blur(8px);
     }
 .a-dialog-text{
-    font: PingFangSC-Bold, 'Ubuntu Mono', monospace;;
+    font: PingFangSC-Bold, 'Ubuntu Mono', monospace;
     color: #eaff00;
     }
 .a-dialog-allow-button {
-    background-color: rgba(118, 255, 97, 0.75);
+    font: PingFangSC-Bold, 'Ubuntu Mono', monospace;
+    color: white;
+    background-color: yellow;
     }
 .a-dialog-deny-button {
-    background-color: black;
+    font: PingFangSC-Bold, 'Ubuntu Mono', monospace;
+    color: white;
+    background-color: pink;
     }
 .a-dialog-ok-button {
+    font: PingFangSC-Bold, 'Ubuntu Mono', monospace;
     background-color: yellow;
     }
