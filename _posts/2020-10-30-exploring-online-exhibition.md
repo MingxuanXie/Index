@@ -120,6 +120,6 @@ Demo链接：[https://mingxuan.fun/hello-worlds/](https://mingxuan.fun/hello-wor
 
 <a name="footnote3"></a>[3] the architect no longer designs objects, but relationships… Instead of thinking geometrically, the architect must design networks of equations. Flusser, Vilém, “Entwurf von Relationen” (interview), in ARCH+, Nr. 111, March 1992, p.49.
 
-<a name="footnote4"></a>[4] *Fate*: TYPE-MOON原作的游戏、小说、动画系列作品
+<a name="footnote4"></a>[4] Fate: TYPE-MOON原作的游戏、小说、动画系列作品
 
 <a name="footnote5"></a>[5] Spiller, N. (1998). Digital dreams. 1st ed. New York: Whitney Library of Design, p.43. p.155.
