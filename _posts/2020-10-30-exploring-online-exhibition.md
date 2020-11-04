@@ -23,7 +23,7 @@ Bernard Tschumi认为，建筑是一系列事件的反应和围合；定义建�
 
 ## **模拟线下展览的空间关系到线上**
 ### **案例1: “当下展：后大众媒体”虚拟线上展览**
-访问链接：[https://ualcssa.art/](https://ualcssa.art/)  （请使用桌面Chrome浏览器）  
+展览链接：[https://ualcssa.art/](https://ualcssa.art/)  （请使用桌面Chrome浏览器）  
 展览介绍：[https://mp.weixin.qq.com/s/29-S6CAxbsGhbH_gM6BwtA](https://mp.weixin.qq.com/s/29-S6CAxbsGhbH_gM6BwtA)
 
 <img src="/assets/exploring-online-exhibition/ualcssa-1.gif" width="100%"/>
@@ -46,7 +46,7 @@ Bernard Tschumi认为，建筑是一系列事件的反应和围合；定义建�
 
 ![alt text](/assets/exploring-online-exhibition/Dingyi-New_thousands_miles_of_mountains_and_river_-_Ding_yi_Feng.jpg)
 
-##### 艺术家Dingyi的作品*新千里江山图* 原本是剪裁的布面丙烯绘画，画框投影是作品的一部分（左图）。而在线上展出时不仅建模还原了画框，还使用虚拟灯光模拟出原作品在线下展出的投影（右图）。
+##### 艺术家丁一的作品*新千里江山图* 原本是剪裁的布面丙烯绘画，画框投影是作品的一部分（左图）。而在线上展出时不仅建模还原了画框，还使用虚拟灯光模拟出原作品在线下展出的投影（右图）。
 
 而对于原本就是数字媒介的作品也被转换和优化成了适合线上展览的文件格式，与物理媒介作品的数字拷贝一同排布在三维网页空间中。原本计划在线下的白盒子空间模式的展览，被这样转化成了线上展览后，依然保持了很明确的空间、艺术品与观众三者的边界及其核心交互机制。
 
@@ -58,7 +58,7 @@ Bernard Tschumi认为，建筑是一系列事件的反应和围合；定义建�
 
 ## **空间即作品/作品即空间的虚拟整体艺术**
 ### **案例2: 不感染美术馆“超冠状病毒”** 
-访问链接：[https://mingxuan.fun/hyper-corona-virus/](https://mingxuan.fun/hyper-corona-virus/) （手机或桌面访问皆可）  
+展览链接：[https://mingxuan.fun/hyper-corona-virus/](https://mingxuan.fun/hyper-corona-virus/) （手机或桌面访问皆可）  
 展览介绍：[https://mp.weixin.qq.com/s/eJZunypWkmovMEr2i41tMA](https://mp.weixin.qq.com/s/eJZunypWkmovMEr2i41tMA)
 
 *超冠状病毒*是我在国内疫情初期开始创作个人项目。通过WebXR将手机屏幕转化成了三维的线上记录和展示空间，让观众自由游走在由新冠病毒的基因分子模型与其相关的模因重组而成的虚拟空间之中。正如真实病毒会不断重组变异一样，我也持续将新的迷思与真相混合而成的文化基因不断添加到这个虚拟空间中进行重组和变异，直到疫情结束——最终完成对当前这个人类重大事件的“空间归档（Spatial Archive）”。
