@@ -6,7 +6,7 @@ categories: project
 ![圖片未顯示|Picture not shown](/assets/space-in-between/0.jpg "The Space In Between, VR game Screenshot, VR game, 2021")
 ##### _The Space In Between, VR game Screenshot, VR game, 2021_  
   
-虛擬現實~~迷宮游戲~~超空間蹦迪  
+虛擬現實<s>迷宮游戲</s>超空間蹦迪  
 快來迷失在數字迷宮裏並隨著音樂快樂的跳舞吧~(づ￣ 3￣)づ
 
 The Space In Between is a maze game exploring hyperspatial experience in VR.  
