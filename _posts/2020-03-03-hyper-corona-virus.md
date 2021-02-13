@@ -16,7 +16,7 @@ categories: project
 
 疫情之下，人類社會正以前所未有的速度加速虛擬化。
 
-[**点击访问在线虚拟展览 | Click here to visit the online exhibition**](https://mingxuan.fun/hyper-corona-virus/)
+[**点此访问在线虚拟展览 | Click here to visit the online exhibition**](https://mingxuan.fun/hyper-corona-virus/)
 ![alt text](/assets/hyper-corona-virus/qr-ticket.png "Hyper Coronavirus, Virtual Exhibition Ticket, Un-contagious Museum, Online, 2020")
 ##### _Hyper Coronavirus, Virtual Exhibition Ticket, Un-contagious Museum, Online, 2020_
 
