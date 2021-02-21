@@ -66,12 +66,12 @@ AFRAME.registerComponent('twoway-motion', {
         var canvas = document.querySelector(".a-canvas");
 
         canvas.addEventListener("mousedown", function (e) {
-            report("mousedown", e);
+            // report("mousedown", e);
             twowaymotion.touching = true;
             this.touchTime = new Date().getTime();
         });
         canvas.addEventListener("mouseup", function (e) {
-            report("mouseup", e);
+            // report("mouseup", e);
             twowaymotion.touching = false;
         });
 
