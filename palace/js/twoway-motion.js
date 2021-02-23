@@ -77,16 +77,16 @@ AFRAME.registerComponent('twoway-motion', {
 
         canvas.addEventListener("touchstart", function (e) {
             this.touch = e;
-            report("touches.length: ", e.touches.length);
+            // report("touches.length: ", e.touches.length);
             if (e.touches.length > 1) {
-                report("multitouch: doing nothing");
+                // report("multitouch: doing nothing");
             } else {
-                report("touchstart", e);
+                // report("touchstart", e);
                 twowaymotion.touching = true;
             }
         });
         canvas.addEventListener("touchend", function () {
-            console.log(this.componentName, " touchend");
+            // console.log(this.componentName, " touchend");
             twowaymotion.touching = false;
         });
     },
