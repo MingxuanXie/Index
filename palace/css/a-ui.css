@@ -26,3 +26,16 @@
     color: deeppink;
     background-color: yellow;
     }
+.screen-overlay {
+    z-index: 1;
+    width: 50%;
+    background-color: #eaff00;
+    margin: 10px;
+    position: fixed;
+    min-width: 600px;
+    bottom: 15%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: left;
+    }

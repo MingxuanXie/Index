@@ -1,5 +1,5 @@
 <!-- Built by Mingxuan Xie using Aframe -->
-<!-- All assets rights reserved -->
+<!-- All assets' rights reserved -->
 <!DOCTYPE html>
 <html>
   <head>
@@ -14,24 +14,26 @@
     <script src="js/shader-glitch.js"></script>
     <!-- <script src="js/aframe-particle-system-component.min.js"></script> -->
     <!-- <script src="https://unpkg.com/aframe-particle-system-component@1.0.x/dist/aframe-particle-system-component.min.js"></script> -->
+    <script src="https://unpkg.com/aframe-randomizer-components@3.0.2/dist/aframe-randomizer-components.min.js"></script>
     <script src="js/click-url.js"></script>
     <script src="js/twoway-motion.js"></script>
+    <script src="js/random-text-color.js"></script>
     <link rel="stylesheet" href="css/a-ui.css">
   </head>
 
   <body>
 <!-- SCENE SETTINGS -->
     <a-scene 
-    renderer="colorManagement: true" 
-    vr-mode-ui="enabled: false" 
-    loading-screen="dotsColor: yellow; backgroundColor: pink" 
-    fog="type: exponential; color: blue; density: 0.125"
-    device-orientation-permission-ui="enabled: false">
+      renderer="colorManagement: true" 
+      vr-mode-ui="enabled: false" 
+      loading-screen="dotsColor: yellow; backgroundColor: pink" 
+      fog="type: exponential; color: blue; density: 0.125"
+      device-orientation-permission-ui="enabled: false">
     <!-- fog setting will break scene -->
     <!-- <a-scene fog="type: exponential; color: blue; density: 0.0003"> -->
 
       <a-assets>
-<!-- IMAGE -->
+<!-- ASSET IMAGE -->
         <img id="HyperFestBritain01" src="assets/HyperFest_of_Britain_5.1.jpg">
         <img id="HyperFestBritain02" src="assets/HyperFest_of_Britain_7.1.jpg">
         <img id="HyperFestBritain03" src="assets/HyperFest_of_Britain_body2.jpg">
@@ -41,15 +43,16 @@
         <img id="HyperBody_Level3" src="assets/HyperBody_Level3.png">
         <img id="HyperBody_Level8" src="assets/HyperBody_Level8.png">
         <img id="Hyperbation_Pachinko" src="assets/Hyperbation_Pachinko_leveldesign.png">
-<!-- MODEL -->
+<!-- ASSET MODEL -->
         <a-asset-item id="3DdanmakuTest_obj" src="assets/3DdanmakuTest.obj"></a-asset-item>
         <a-asset-item id="3DdanmakuTest_mtl" src="assets/3DdanmakuTest.mtl"></a-asset-item>
         <a-asset-item id="CrabMing_obj" src="assets/CrabMing_obj/CrabMing.obj"></a-asset-item>
         <a-asset-item id="CrabMing_mtl" src="assets/CrabMing_obj/CrabMing.mtl"></a-asset-item>
         <a-asset-item id="ming-san" src="assets/ming-san.glb"></a-asset-item>
-<!-- Mixins -->
-        <a-mixin id="title" text="font: mozillavr; align: center; color: black" position="0 1 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
-        <a-mixin id="text" text="font: mozillavr; align: center; color: black" position="0 0 -1" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
+<!-- ASSET Mixins -->
+        <a-mixin id="title" text="font: mozillavr; align: center" position="0 1.2 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1.2 -1.5; max: 0.25 1 -2" random-text-color="min: 0.8 0.8 0"></a-mixin>
+        <a-mixin id="title-no-random-color" text="font: mozillavr; align: center" position="0 1 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1 -1.5; max: 0.25 1 -2"></a-mixin>
+        <a-mixin id="text" text="font: mozillavr; align: center" position="0 -0.25 -1" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 -0.25 -0.5; max: 0.25 0.25 -1.5" random-text-color="min: 0.5 0.5 0"></a-mixin>
         <a-mixin id="square-img" scale="0.5 0.5 0.5" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
         <a-mixin id="img-frame" scale="1.05 1.05 0.025" position="0 0 -0.025" material="shader: grid-glitch; color: blue;"></a-mixin>
         <a-mixin id="metadata" text="color: yellow" scale="1 1 1" position="0 0 -0.5"></a-mixin>
@@ -57,51 +60,62 @@
       </a-assets>
 
 <!-- Enviroment Settings -->
-      <a-entity cursor="rayOrigin:mouse"></a-entity>
+      <!-- <a-entity cursor="rayOrigin:mouse"></a-entity> -->
       <a-sky rotation="0 -89.5 0" color="" src="#sky" material="fog:false"></a-sky>
       <!-- <a-entity position="0 2.25 -15" rotation="180 0 0" particle-system="preset: snow; color: yellow"></a-entity> -->
 
 <!-- Camera -->
       <a-entity position="0 0 0" camera look-controls twoway-motion="nonMobileLoad: true; speed: 2; threshold: -90" wasd-controls="fly: true">
-        <a-box position="0 -0.5 -1" rotation="0 45 0" scale="0.05 0.05 0.05" color="black" opacity="0.5"></a-box>
+        <a-entity cursor="fuse: true; fuseTimeout: 500"
+                  position="0 0 -0.5"
+                  text="value: +; align: center; width: 0.5; color: lime">
+        </a-entity>
+        <a-box position="0 0 -0.6" rotation="0 45 45" scale="0.025 0.025 0.025" color="black" opacity="0.5"></a-box>
         <!-- Version Note -->
-        <a-entity position="0 -0.3 -0.5" text="value: [beta version 0.2.2]; width: 0.5; color: black; align: center"></a-entity>
+        <a-entity position="0 -0.3 -0.5" text="value: [under development: beta v0.2.3]; width: 0.4; color: black; align: center"></a-entity>
       </a-entity>
 
 <!-- CONTENT -->
-      <a-entity obj-model="obj: #CrabMing_obj" position="0 0 -1" hypermove="factor:0.01">
-        <a-animation attribute="rotation" dur="10000" fill="forwards" to="0 360 0" repeat="indefinite" easing="linear">
-        </a-animation>
+      <a-entity obj-model="obj: #CrabMing_obj" 
+                material="shader: grid-glitch; color: cyan;" 
+                animation__rotation="property: rotation; from: 0 0 0; to: 0 360 0; dur: 5000; easing: linear; loop: true"
+                position="0.25 -0.25 -1" 
+                scale="2 2 2"
+                hypermove="factor:0.01">
       </a-entity>
 
       <a-entity id="ming-san-entity" gltf-model="#ming-san" scale="10 10 10" position="-1.5 -2 -7.5" rotation="8 20 0"></a-entity>
 
-      <a-entity id="Images">
-        <!-- animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 12000" -->
-        <a-image mixin="square-img" src="#HyperFestBritain01" position="1.5 0 -1"><a-box mixin="img-frame"></a-box></a-image>
-        <a-image mixin="square-img" src="#HyperFestBritain02" position="4 -1 -1"><a-box mixin="img-frame"></a-box></a-image>
-        <a-image mixin="square-img" src="#HyperFestBritain03" position="2 1 -1"><a-box mixin="img-frame"></a-box></a-image>
-        <a-image mixin="square-img" src="#HyperFestBritain04" position="-1 -0.5 -1"><a-box mixin="img-frame"></a-box></a-image>
-      </a-entity>
-
+      <!-- animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 12000" -->
+      <a-image mixin="square-img" src="#HyperFestBritain01" position="1.5 0 -1"><a-box mixin="img-frame"></a-box></a-image>
+      <a-image mixin="square-img" src="#HyperFestBritain02" position="4 -1 -1"><a-box mixin="img-frame"></a-box></a-image>
+      <a-image mixin="square-img" src="#HyperFestBritain03" position="2 1 -1"><a-box mixin="img-frame"></a-box></a-image>
+      <a-image mixin="square-img" src="#HyperFestBritain04" position="-1 -0.5 -1"><a-box mixin="img-frame"></a-box></a-image>
       <a-image src="#HyperBody_Level3" mixin="trans-img" position="-1 0 -2" hypermove="factor:0.01" ></a-image>
       <a-image src="#HyperBody_Level8"  mixin="trans-img" position="-1 0 -3" hypermove="factor:0.01" ></a-image>
       <a-image src="#HyperBody_Level2"  mixin="trans-img" position="-1 0 -4" hypermove="factor:0.01" ></a-image>
-      <a-image src="#Hyperbation_Pachinko"  mixin="trans-img" width="0.3" height="0.7" position="0 0 -1" hypermove="factor:0.01"></a-image>
-      <!-- click-url="https://mingxuan.fun/project/2018/08/25/pachinko.html" -->
+      <a-image src="#Hyperbation_Pachinko"  mixin="trans-img" width="0.3" height="0.7" position="0 -0.25 -1" hypermove="factor:0.01"></a-image>
 
 <!-- TEXT -->
       <!-- Download font locally and use mixin to set font for all text -->
+      <a-text value="Hello, World!" position="0 0 1" font="mozillavr" align="center" color="red"></a-text>
+      <a-entity mixin="title-no-random-color" text="value: God is dead, so is architecture.; color: red"></a-entity>
       <a-entity mixin="title" text="value: VRchitecture Manifesto"></a-entity>
-      <a-entity mixin="title" text="value: God is dead, so is architecture.;color: red"></a-entity>
       <a-entity mixin="title" text="value: Hyperbation"></a-entity>
       <a-entity mixin="title" text="value: Architects in Cyberspace"></a-entity>
       <a-entity mixin="title" text="value: HyperSite"></a-entity>
       <a-entity mixin="text" text="value: Liquid Architecture"></a-entity>
-      <a-entity mixin="text" text="value: Wikitopia;"></a-entity>
-      <a-entity mixin="text" text="value: Digital Nomads;"></a-entity>
-      <a-entity mixin="text" text="value: hyperbation.art;"></a-entity>
-      <a-entity text="value: wx: mingxuan-xie; color: black; font: mozillavr; align: center" scale="0.1 0.1 0.1" rotation="-48.05798098218806 15.905 -7.826999999999999" position="-0.30568 0.727 -5.372"></a-entity>
+      <a-entity mixin="text" text="value: Mingxuan.Fun/Palace"></a-entity>
+      <a-entity mixin="text" text="value: peach.land"></a-entity>
+      <a-entity mixin="text" text="value: babylon.js"></a-entity>
+      <a-entity mixin="text" text="value: Wikitopia"></a-entity>
+      <a-entity mixin="text" text="value: Digital Nomad"></a-entity>
+      <a-entity mixin="text" text="value: hyperbation.art"></a-entity>
+      <a-entity mixin="text" text="value: HyperBody"></a-entity>
+      <a-entity mixin="text" text="value: VRchitect"></a-entity>
+      <a-entity mixin="text" text="value: Spatial Programmer"></a-entity>
+      <a-entity mixin="text" text="value: Algoraver"></a-entity>
+      <a-entity text="value: wx: mingxuan-xie; color: lightgreen; font: mozillavr; align: center" scale="0.1 0.1 0.1" rotation="-48.05798098218806 15.905 -7.826999999999999" position="-0.30568 0.727 -5.372"></a-entity>
 
 <!-- Liquid Architecture -->
       <a-entity geometry="primitive: sphere; radius: 0.4" material="shader: noise; color: red" position="-1 -2.37 -7.4" scale="4 2 4" rotation="45 45 0"></a-entity>
@@ -114,7 +128,13 @@
           position="0 -0.15 -1" scale="3 3 3" 
         ></a-entity>
       </a-entity> -->
-      <a-entity id="3D Danmaku Test" obj-model="obj: #3DdanmakuTest_obj" position="0 1 0" scale="0.5 0.5 0.5" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000; easing: linear"></a-entity>
+      <a-entity id="3D Danmaku Test" obj-model="obj: #3DdanmakuTest_obj" material="shader: noise; color: white" position="0 1 0" scale="0.5 0.5 0.5" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000; easing: linear" material="shader: flat"></a-entity>
     </a-scene>
+
+<!-- 2D UI -->
+    <!-- <div id="screen-overlay" class="screen-overlay">
+      <h5>This is a test</h5>
+    </div> -->
+
   </body>
 </html>
