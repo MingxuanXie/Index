@@ -4,7 +4,7 @@ title: 簡介 Bio
 permalink: /about/
 ---
 
-Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http://vrch.tech) and Member of [Hyperbation](http://hyperbation.space).  
+Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http://vrch.tech) and Member of [Hyperbation](http://hyperbation.art).  
 
 ### Experience:
 
