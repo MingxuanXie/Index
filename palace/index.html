@@ -50,9 +50,9 @@
         <a-asset-item id="CrabMing_mtl" src="assets/CrabMing_obj/CrabMing.mtl"></a-asset-item>
         <a-asset-item id="ming-san" src="assets/ming-san.glb"></a-asset-item>
 <!-- ASSET Mixins -->
-        <a-mixin id="title" text="align: center" position="0 1.2 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1.2 -1.5; max: 0.25 1 -2" random-text-color="min: 0.8 0.8 0"></a-mixin>
-        <a-mixin id="title-no-random-color" text="font: mozillavr; align: center" position="0 1 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1 -1.5; max: 0.25 1 -2"></a-mixin>
-        <a-mixin id="text" text="font: mozillavr; align: center" position="0 -0.25 -1" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 -0.25 -0.5; max: 0.25 0.25 -1.5" random-text-color="min: 0.5 0.5 0"></a-mixin>
+        <a-mixin id="title" text="font: assets/mozillavr.fnt; align: center" position="0 1.2 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1.2 -1.5; max: 0.25 1 -2" random-text-color="min: 0.8 0.8 0"></a-mixin>
+        <a-mixin id="title-no-random-color" text="font: assets/mozillavr.fnt; align: center" position="0 1 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1 -1.5; max: 0.25 1 -2"></a-mixin>
+        <a-mixin id="text" text="font: assets/mozillavr.fnt; align: center" position="0 -0.25 -1" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 -0.25 -0.5; max: 0.25 0.25 -1.5" random-text-color="min: 0.5 0.5 0"></a-mixin>
         <a-mixin id="square-img" scale="0.5 0.5 0.5" hypermove="factor:0.01" look-at="[camera]"></a-mixin>
         <a-mixin id="img-frame" scale="1.05 1.05 0.025" position="0 0 -0.025" material="shader: grid-glitch; color: blue;"></a-mixin>
         <a-mixin id="metadata" text="color: yellow" scale="1 1 1" position="0 0 -0.5"></a-mixin>
@@ -98,7 +98,7 @@
 
 <!-- TEXT -->
       <!-- Download font locally and use mixin to set font for all text -->
-      <a-text value="Hello, World!" position="0 0 1" font="mozillavr" align="center" color="red"></a-text>
+      <a-text value="Hello, World!" position="0 0 1" font="assets/mozillavr.fnt" align="center" color="red"></a-text>
       <a-entity mixin="title-no-random-color" text="value: God is dead, so is architecture.; color: red"></a-entity>
       <a-entity mixin="title" text="value: VRchitecture Manifesto"></a-entity>
       <a-entity mixin="title" text="value: Hyperbation"></a-entity>
@@ -116,7 +116,7 @@
       <a-entity mixin="text" text="value: VRchitect"></a-entity>
       <a-entity mixin="text" text="value: Spatial Programmer"></a-entity>
       <a-entity mixin="text" text="value: Algoraver"></a-entity>
-      <a-entity text="value: wx: mingxuan-xie; color: lightgreen; font: mozillavr; align: center" scale="0.1 0.1 0.1" rotation="-48.05798098218806 15.905 -7.826999999999999" position="-0.30568 0.727 -5.372"></a-entity>
+      <a-entity text="value: wx: mingxuan-xie; color: lightgreen; font: assets/mozillavr.fnt; align: center" scale="0.1 0.1 0.1" rotation="-48.05798098218806 15.905 -7.826999999999999" position="-0.30568 0.727 -5.372"></a-entity>
 
 <!-- Liquid Architecture -->
       <a-entity geometry="primitive: sphere; radius: 0.4" material="shader: noise; color: red" position="-1 -2.37 -7.4" scale="4 2 4" rotation="45 45 0"></a-entity>
@@ -125,7 +125,7 @@
       <!-- <a-entity id="Bar" position="0 0 0" rotation="0 -90 0"
       animation="property: rotation; to: 0 270 0; loop: true; dur: 20000; easing: linear">
         <a-entity id="Introduction"
-          text="value: Ming (Mingxuan Xie) is a a Vrchitect / Indie Dev / Live Coder / XR Innovator; font: mozillavr; color: black; wrapCount: 100; align: center"
+          text="value: Ming (Mingxuan Xie) is a a Vrchitect / Indie Dev / Live Coder / XR Innovator; font: assets/mozillavr.fnt; color: black; wrapCount: 100; align: center"
           position="0 -0.15 -1" scale="3 3 3" 
         ></a-entity>
       </a-entity> -->
