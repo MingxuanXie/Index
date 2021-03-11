@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "空間之間 | The Space In Between"
-categories: creation
+categories: work
 ---
 ![圖片未顯示|Picture not shown](/assets/space-in-between/0.jpg "The Space In Between, VR game Screenshot, VR game, 2021")
 ##### _The Space In Between, VR game Screenshot, VR game, 2021_  

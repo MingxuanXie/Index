@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "溺水的電子人 | The Drowning Cyborg"
-categories: creation
+categories: work
 ---
 [**CiGA Game Jam 2019閔行區決賽入圍作品**](https://www.youxibd.com/gamejam/detail/101)
 

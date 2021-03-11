@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "超遊戲盛會 | HyperGameFest"
-categories: creation
+categories: work
 ---
 
 A participatory augmented reality game, held annually at Sony Park. Artworks uploaded to the Park's digital display by visitors throughout the past year combine to create a huge "Ginza Monster", which visitors must work together to fight and defeat using their smartphones. Status updates such as changes in the monster's HP are shown in real time on the digital display.

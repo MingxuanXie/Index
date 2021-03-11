@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "超空間編程者 | HyperSpatial Programmer"
-categories: project
+categories: work
 ---
 
 I am the bone of my sword.（吾为所持剑之bai骨）

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在实践中探索线上展览的空间关系  | （草稿）"
-categories: essay
+categories: blog
 ---
 # **前言**
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 簡介 Bio 
+title: 簡介 About 
 permalink: /about/
 ---
 
