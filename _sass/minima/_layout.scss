@@ -76,11 +76,21 @@
     padding-bottom: 5px;
   }
 
+  @keyframes background-animation {
+    from {background-color: $grey-color;}
+    to {background-color: $brand-color;}
+  }
+
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
+    background-color: $grey-color;
+    animation-name: background-animation;
+    animation-duration: 1s;
+    animation-iteration-count: 6;
+    animation-direction: alternate;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {

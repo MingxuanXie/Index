@@ -2,8 +2,7 @@
 
 This is a website built using Jekyll and A-frame by Mingxuan Xie as his creative portfolio.
 
-### Run locally with Ruby in TERMINAL
-~~export PATH=/usr/local/opt/ruby/bin:$PATH~~
+### Run locally
 ```
 bundle exec jekyll serve
 ```

@@ -12,7 +12,7 @@ Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http:
 
 - **2018-19** Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
 
-- **2017-19** Technical Artist at [Hyperbation](http://hyperbation.art/)
+- **2017-19** Technical Director at [Hyperbation](http://hyperbation.art/)
 
 - **2015-16** Architectural Assistant at [UNStudio](https://www.unstudio.com/), Shanghai, China
 
@@ -34,7 +34,7 @@ Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http:
 ### Exhibitions:
 - **2020**  
     - London Design Festival, London, UK
-    - *Hyper Corona Virus*, Un-contagious Museum, online
+    - [*Hyper Corona Virus*](https://mingxuan.fun/hyper-corona-virus/), Un-contagious Museum, online
 
 - **2019**
     - [*Club All Hyperreality & Maximalism in Modern Day China*](http://2019.jdw.co.il/en/exhibition/club-all-hyperreality-maximalism-in-modern-day-china/), Jerusalem Design Week, Israel

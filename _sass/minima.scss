@@ -15,7 +15,7 @@ $spacing-unit: 30px !default;
 
 $text-color: #eaff00 !default;
 $background-color: pink !default;
-$brand-color: #8400ff !default;
+$brand-color: #6600ff !default;
 
 $grey-color: deeppink !default;
 $grey-color-light: lighten($grey-color, 25%) !default;
@@ -26,7 +26,7 @@ $table-text-align: left !default;
 // Width of the content area default 800px on laptop 600px on palm
 $content-width: 800px !default;
 
-$on-palm: 600px !default;
+$on-palm: 320px !default;
 $on-laptop: 800px !default;
 
 $on-medium: $on-palm !default;
