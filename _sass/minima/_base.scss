@@ -276,3 +276,15 @@ table {
 ::-webkit-scrollbar-thumb:hover {
   background: $grey-color-light;
 }
+
+// add full width
+.wrapper-full-width {
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+      padding-right: $spacing-unit / 2;
+      padding-left: $spacing-unit / 2;
+  }
+}
