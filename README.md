@@ -12,6 +12,9 @@ https://favicon.io/favicon-converter/
 ### Change Font
 https://stackoverflow.com/questions/54138066/changing-the-font-in-jekyll-minima-default-theme
 
+#### Serve fonts locally
+https://google-webfonts-helper.herokuapp.com/fonts/ubuntu-mono?subsets=latin
+
 ## TO DO
 Damaku for Manifesto
 GIFs
