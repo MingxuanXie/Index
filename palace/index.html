@@ -18,10 +18,32 @@
     <script src="js/click-url.js"></script>
     <script src="js/twoway-motion.js"></script>
     <script src="js/random-text-color.js"></script>
+<!-- NFT Scripts -->
+    <script src="js/aframe-show-nft.js"></script>
+    <script src="js/nft-card.min.js"></script>
+    <!-- <script src="js/enable-ethereum.js"></script> -->
+<!-- CSS -->
     <link rel="stylesheet" href="css/a-ui.css">
+    <link rel="stylesheet" href="css/nft.css">
+    <link rel="stylesheet" href="css/local-ubuntu-font.css">
   </head>
 
   <body oncontextmenu="return false">
+  <!-- NFT UI -->
+    <div class="nft-overlay">
+      <div id="nftHyperFestBritain01" hidden>
+        <nft-card contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e" tokenId="50309695389067780389388396025237871016333501548352288069828970735393415626753" horizontal></nft-card>
+      </div>
+      <div id="nftHyperFestBritain02" hidden>
+        <nft-card contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e" tokenId="50309695389067780389388396025237871016333501548352288069828970736492927254529" horizontal></nft-card>
+      </div>
+      <div id="nftHyperFestBritain03" hidden>
+        <nft-card contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e" tokenId="50309695389067780389388396025237871016333501548352288069828970737592438882305" horizontal></nft-card>
+      </div>
+      <div id="nftHyperFestBritain04" hidden>
+        <nft-card contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e" tokenId="50309695389067780389388396025237871016333501548352288069828970738691950510081" horizontal></nft-card>
+      </div>
+    </div>
 <!-- SCENE SETTINGS -->
     <a-scene 
       renderer="colorManagement: true" 
@@ -67,12 +89,13 @@
 <!-- Camera -->
       <a-entity position="0 0 0" camera look-controls twoway-motion="nonMobileLoad: true; speed: 2; threshold: -90" wasd-controls="fly: true">
         <a-entity cursor="fuse: true; fuseTimeout: 500"
+                  raycaster="far: 20; interval: 500"
                   position="0 0 -0.5"
                   text="value: +; align: center; width: 0.5; color: lime">
         </a-entity>
         <a-box position="0 0 -0.6" rotation="0 45 45" scale="0.025 0.025 0.025" color="yellow" opacity="0.5"></a-box>
         <!-- Version Note -->
-        <a-entity position="0 -0.3 -0.5" text="value: [under development: beta v0.2.3]; width: 0.4; color: black; align: center"></a-entity>
+        <a-entity position="0 -0.3 -0.5" text="value: [under development: beta v0.2.4]; width: 0.4; color: black; align: center"></a-entity>
       </a-entity>
 
 <!-- CONTENT -->
@@ -87,10 +110,10 @@
       <a-entity id="ming-san-entity" gltf-model="#ming-san" scale="10 10 10" position="-1.5 -2 -7.5" rotation="8 20 0"></a-entity>
 
       <!-- animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 12000" -->
-      <a-image mixin="square-img" src="#HyperFestBritain01" position="1.5 0 -1"><a-box mixin="img-frame"></a-box></a-image>
-      <a-image mixin="square-img" src="#HyperFestBritain02" position="4 -1 -1"><a-box mixin="img-frame"></a-box></a-image>
-      <a-image mixin="square-img" src="#HyperFestBritain03" position="2 1 -1"><a-box mixin="img-frame"></a-box></a-image>
-      <a-image mixin="square-img" src="#HyperFestBritain04" position="-1 -0.5 -1"><a-box mixin="img-frame"></a-box></a-image>
+      <a-image mixin="square-img" src="#HyperFestBritain01" position="1.5 0 -1"><a-box mixin="img-frame" show-nft="nftHyperFestBritain01"></a-box></a-image>
+      <a-image mixin="square-img" src="#HyperFestBritain02" position="4 -1 -1"><a-box mixin="img-frame" show-nft="nftHyperFestBritain02"></a-box></a-image>
+      <a-image mixin="square-img" src="#HyperFestBritain03" position="2 1 -1"><a-box mixin="img-frame" show-nft="nftHyperFestBritain03"></a-box></a-image>
+      <a-image mixin="square-img" src="#HyperFestBritain04" position="-1 -0.5 -1"><a-box mixin="img-frame" show-nft="nftHyperFestBritain04"></a-box></a-image>
       <a-image src="#HyperBody_Level3" mixin="trans-img" position="-1 0 -2" hypermove="factor:0.01" ></a-image>
       <a-image src="#HyperBody_Level8"  mixin="trans-img" position="-1 0 -3" hypermove="factor:0.01" ></a-image>
       <a-image src="#HyperBody_Level2"  mixin="trans-img" position="-1 0 -4" hypermove="factor:0.01" ></a-image>
@@ -136,6 +159,7 @@
     <!-- <div id="screen-overlay" class="screen-overlay">
       <h5>This is a test</h5>
     </div> -->
+
 
   </body>
 </html>

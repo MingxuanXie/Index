@@ -1,7 +1,8 @@
-/***********************************************
-Script by Mingxuan Xie (http://mingxuan.fun/)
-MIT License
-***********************************************/
+/*
+Make a-object move randomly
+@author   Mingxuan Xie <http://mingxuan.fun/>
+@license  MIT
+*/
 
 AFRAME.registerComponent('hypermove', {
     schema: {

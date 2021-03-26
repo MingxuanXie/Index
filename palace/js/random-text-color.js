@@ -1,7 +1,8 @@
-/**
- * Set random color for aframe text component.
- * Write by Mingxuan Xie (mingxuan.fun)
- */
+/*
+Set random color for aframe text component.
+@author   Mingxuan Xie <http://mingxuan.fun/>
+@license  MIT
+*/
 AFRAME.registerComponent('random-text-color', {
   schema: {
     min: {default: {x: 0, y: 0, z: 0}, type: 'vec3'},
