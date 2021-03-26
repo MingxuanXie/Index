@@ -273,7 +273,8 @@
   padding: 5px;
   margin-left: 0;
   list-style: none;
-  backdrop-filter: blur(7px);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 
   > li {
     margin-bottom: $spacing-unit;
@@ -314,6 +315,7 @@
   margin-bottom: $spacing-unit;
   background-color: rgba(255, 20, 147, 0.8);
   backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   padding: 5px;
   h2 {
     @include relative-font-size(1.75);
