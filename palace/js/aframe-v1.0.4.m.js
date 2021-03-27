@@ -69474,16 +69474,25 @@ module.exports.Component = registerComponent('look-controls', {
   onTouchMove: function (evt) {
     var direction;
     var canvas = this.el.sceneEl.canvas;
+    // and deltX to add x axis rotation
+    var deltaX;
     var deltaY;
+    var pitchObject = this.pitchObject;
     var yawObject = this.yawObject;
 
     if (!this.touchStarted || !this.data.touchEnabled) { return; }
 
+    deltaX = 2 * Math.PI * (evt.touches[0].pageY - this.touchStart.y) / canvas.clientWidth;
     deltaY = 2 * Math.PI * (evt.touches[0].pageX - this.touchStart.x) / canvas.clientWidth;
 
     direction = this.data.reverseTouchDrag ? 1 : -1;
-    // Limit touch orientaion to to yaw (y axis).
+    // Allow touch orientaion to pitch (x axis).
+    pitchObject.rotation.x -= deltaX * 0.5 * direction;
     yawObject.rotation.y -= deltaY * 0.5 * direction;
+
+    // Constrain pitch angles
+    pitchObject.rotation.x = Math.max(-PI_2 / 2, Math.min(PI_2 / 2, pitchObject.rotation.x));
+
     this.touchStart = {
       x: evt.touches[0].pageX,
       y: evt.touches[0].pageY

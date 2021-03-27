@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <title>MINGXUAN.FUN PALACE</title>
 <!-- SCRIPTS-->
-    <!-- <script src="js/aframe-v1.0.4.m.js"></script> -->
-    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src="js/aframe-v1.2.0.ming.js"></script>
+    <!-- <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script> -->
     <script src="https://morandd.github.io/aframe-multitouch-look-controls/multitouch-look-controls.js"></script>
     <script src="js/hypermove.js"></script>
     <script src="js/shader-noise.js"></script>
@@ -17,8 +17,9 @@
     <!-- <script src="https://unpkg.com/aframe-particle-system-component@1.0.x/dist/aframe-particle-system-component.min.js"></script> -->
     <script src="https://unpkg.com/aframe-randomizer-components@3.0.2/dist/aframe-randomizer-components.min.js"></script>
     <script src="js/click-url.js"></script>
-    <!-- <script src="js/twoway-motion.js"></script> -->
+    <script src="js/twoway-motion.js"></script>
     <script src="js/random-text-color.js"></script>
+    <!-- <script src="js/aframe-look-controls.js"></script> -->
 <!-- NFT Scripts -->
     <script src="js/aframe-show-nft.js"></script>
     <script src="js/nft-card.min.js"></script>
@@ -88,15 +89,15 @@
       <!-- <a-entity position="0 2.25 -15" rotation="180 0 0" particle-system="preset: snow; color: yellow"></a-entity> -->
 
 <!-- Camera -->
-      <a-entity position="0 0 0" camera multitouch-look-controls="maxPitch: 45; minPitch: -45" wasd-controls="fly: true; acceleration: 5;">
+      <a-entity position="0 0 0" camera look-controls twoway-motion="nonMobileLoad: true; speed: 2.5; threshold: -90" wasd-controls="fly: true; acceleration: 0.2">
         <a-entity cursor="fuse: true; fuseTimeout: 500"
                   raycaster="far: 20; interval: 500"
                   position="0 0 -0.5"
                   text="value: +; align: center; width: 0.5; color: lime">
         </a-entity>
-        <a-box position="0 0 -0.6" rotation="0 45 45" scale="0.025 0.025 0.025" color="yellow" opacity="0.5"></a-box>
+        <!-- <a-box position="0 0 -0.6" rotation="0 45 45" scale="0.025 0.025 0.025" color="yellow" opacity="0.5"></a-box> -->
         <!-- Version Note -->
-        <a-entity position="0 -0.35 -0.5" text="value: [beta v0.2.4]; width: 0.4; color: black; align: center"></a-entity>
+        <a-entity position="0 -0.35 -0.5" text="value: [beta v0.2.5]; width: 0.4; color: black; align: center"></a-entity>
       </a-entity>
 
 <!-- CONTENT -->
@@ -160,7 +161,6 @@
     <!-- <div id="screen-overlay" class="screen-overlay">
       <h5>This is a test</h5>
     </div> -->
-
 
   </body>
 </html>
