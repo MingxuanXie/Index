@@ -1,4 +1,4 @@
-# Gallery Must Blaze AR App
+# Gallery Must Blaze
 
 This is a spatially-aware AR experience developed by [Mingxuan Xie](https://mingxuan.fun/) as part of the art exhibition at Coutts Art Center.  
 
