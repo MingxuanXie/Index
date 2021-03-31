@@ -65,5 +65,5 @@ exclude:
   - README.md
   - package.json
   - MarkdownCheatsheet.md
-  - /app
   - minimaREADME.md
+    # - /app
