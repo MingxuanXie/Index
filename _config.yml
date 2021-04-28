@@ -54,8 +54,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Use GitHub Flavored Markdown
-markdown: CommonMarkGhPages
+# Not Use GitHub Flavored Markdown
+# markdown: CommonMarkGhPages
+# Instead use kramdown Markdown to allow strikethrough
+markdown: kramdown
 
 # Exclude certain directory and files
 exclude:
