@@ -3,7 +3,7 @@ layout: post
 title: "画廊必须燃烧 | Gallery Must Blaze"
 categories: work
 ---  
-<video width="100%" controls=""><br><source src="http://127.0.0.1:4000/assets/gallery-must-blaze-1.mp4" type="video/mp4"><br>
+<video width="100%" controls=""><br><source src="/assets/gallery-must-blaze-1.mp4" type="video/mp4"><br>
 Your browser does not support the video tag.<br>
 你能透过那些白盒子空间来判断当今画廊有多么无聊。  
 那些被看门人管控下的美术馆在后现代的虚假表皮下摇摇欲坠。  
