@@ -19,6 +19,7 @@ layout: default
     {{ content }}
     <!-- Add next/previous page -->
     <div class="PageNavigation">
+      <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
       {% if page.categories %}
         {% assign category = page.categories[0] %}
         {% assign posts = site.categories[category] %}
