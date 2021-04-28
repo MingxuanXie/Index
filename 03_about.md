@@ -32,6 +32,8 @@ Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http:
     - [Digital Earth Fellowship](https://www.digitalearth.art/mingxuan-xie)
 
 ### Exhibitions:
+- **2021**  
+    - *Now Showing 2021 Before Rejuvenation*, CouttsArt Center, Shanghai, China
 - **2020**  
     - London Design Festival, London, UK
     - [*Hyper Corona Virus*](https://mingxuan.fun/hyper-corona-virus/), Un-contagious Museum, online

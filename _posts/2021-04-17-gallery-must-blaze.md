@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "画廊必须燃烧 | Gallery Must Blaze"
+title: "畫廊必須燃燒 | Gallery Must Blaze"
 categories: work
 ---  
 <video width="100%" preload autoplay controls><source src="/assets/gallery-must-blaze/demo.mp4" type="video/mp4">Video Not Loaded</video>
@@ -8,37 +8,42 @@ categories: work
 ##### _Gallery Must Blaze, AR App Screen Recoding, CouttsArt Center, Shanghai 2021_  
 ##### _Physical installation courtesy of artist Dayou Geng_
 
+<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 <a name="cn"></a> 
 
 中｜[ENG](#eng)
 
-你能透过那些白盒子空间来判断当今画廊有多么无聊。  
-那些被看门人管控下的美术馆在后现代的虚假表皮下摇摇欲坠。  
+你能透過無數白盒子空間來判斷當今畫廊有多麽無聊。  
+那些被看門人管控下的美術館在後現代的虛假表皮下搖搖欲墜。  
 
-我无意于建造门槛，抑或表皮。  
-我厌倦了现实空间的条条框框（尤其是消防规范）。  
-因为对于艺术，我只想保留最令人不安的部分。  
+我無意於建造門檻，抑或表皮。  
+我厭倦了現實空間的條條框框（尤其是消防規範）。  
+因為對於藝術，我只想保留最令人不安的部分。  
 
-我想要画廊凌驾于于物理限制。  
-画廊要虚拟，开源，去中心，不可替换。  
-要在资本泡沫中乘风破浪，  
+我想要畫廊淩駕於於物理限制。  
+畫廊要虛擬，開源，去中心，不可替換。  
+要在資本泡沫中乘風破浪，  
 又在元宇宙中四分五裂。  
-要在公众号、INS与P站之间来回跳转，  
-又在区块链上凝聚共识。  
+要在公眾號、INS與P站之間來回跳轉，  
+又在區塊鏈上凝聚共識。    
 
-*“下一个巴比伦<sup>[[1]](#footnote1)</sup>”将是建立在[Babylon.js](https://babylonjs.com/)之上的“新巴比伦<sup>[[2]](#footnote2)</sup>”？*
+*“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/)之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？*
 
-画廊必须穿越次元——  
-嗨、萌、好玩、耍梗、互动、沉迷、性转、爆炸、全真、被骇、故障、分布自治、病毒性传播，无论线上或线下。
+畫廊必須穿越次元————  
+嗨、萌、好玩、耍梗、互動、沈迷、性轉、爆炸、全真、被駭、故障、分布自治、病毒性傳播，  
+無論線上或線下。
 
-要冷，则寒如[北极冰川代码库](https://archiveprogram.github.com/arctic-vault/)。  
-要热，就烫过超频极限的芯片。  
+要冷，便寒如[北極冰川代碼庫](https://archiveprogram.github.com/arctic-vault/)。  
+要熱，就燙過極限超頻的芯片。  
 
-画廊必须燃烧🔥
+畫廊必須燃燒🔥
 
-![圖片未顯示](/assets/gallery-must-blaze/qr-code.svg "Gallery Must Blaze, QR code for downloading the AR app. 2021")
-##### _Gallery Must Blaze, QR code for downloading AR app. 2021_
+<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
+![圖片未顯示](/assets/gallery-must-blaze/qr-code.svg "Gallery Must Blaze, Totem pattern, QR code for downloading the AR app 2021")
+##### _Gallery Must Blaze, Totem pattern, QR code for downloading the AR app 2021_
+
+<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 <a name="eng"></a>  
 
 [中](#cn)｜ENG
@@ -57,7 +62,7 @@ and dissolved in the metaverse.**
 **Galleries that redirected among WeChat, Instagram and PornHub...**  
 **while building consensus on blockchains.**  
 
-*Would "The Next Babylon<sup>[[1]](#footnote1)</sup>" be the "New Babylon<sup>[[2]](#footnote2)</sup>" built on [Babylon.js](https://babylonjs.com/)?*
+*Would "The Next Babylon"<sup>[[1]](#footnote1)</sup> be the "New Babylon"<sup>[[2]](#footnote2)</sup> built on [Babylon.js](https://babylonjs.com/)?*
 
 **Galleries have to be trans-dimensional,**   
 **hyped, moe, playful, memeful, interactive, addictive, explosive, transsexual, hyperreal, hacked, glitched, DAO and going viral. Online or offline.**
@@ -76,8 +81,8 @@ and dissolved in the metaverse.**
 ### Reference
 
 This project is inspired by Coop Himmelb(l)au's *[Architecture Must Blaze](http://www.coop-himmelblau.at/architecture/philosophy/architecture-must-blaze/)* (1980).  
-<a name="footnote1"></a>[1] Nieuwenhuys, Constant (1959-74). *New Babylon*.  
-<a name="footnote2"></a>[2] Novak, Marcos (1998). *["Next Babylon: Accidents to Play in"](https://v2.nl/archive/articles/next-babylon). The Art of the Accident*. Netherlands: NAI Publishers/V2O̲rganisatie.
+<a name="footnote1"></a>1. Nieuwenhuys, Constant (1959-74). *New Babylon*.  
+<a name="footnote2"></a>2. Novak, Marcos (1998). *["Next Babylon: Accidents to Play in"](https://v2.nl/archive/articles/next-babylon). The Art of the Accident*. Netherlands: NAI Publishers/V2O̲rganisatie.
 
 
 

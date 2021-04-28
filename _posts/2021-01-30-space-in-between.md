@@ -12,9 +12,9 @@ categories: work
 The Space In Between is a maze game exploring hyperspatial experience in VR.  
 Done by Mingxuan Xie alone under 48 hours while participating GlobalGameJam2021.
 
-<iframe width="730" height="412" src="https://www.youtube.com/embed/ToJnmACDIbY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [**從游戲便當下載試玩**](https://www.youxibd.com/v2/gamejam/ggj2021/works/1073) | [**Click here to download from GGJ**](https://globalgamejam.org/2021/games/space-between-1)
+
+<iframe width="100%" height="412" src="https://www.youtube.com/embed/ToJnmACDIbY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![圖片未顯示](/assets/space-in-between/2.jpg "The Space In Between, The maze tower, VR game Screenshot, VR game, 2021")
 ##### _The Space In Between, The maze tower, VR game Screenshot, VR game, 2021_
@@ -32,6 +32,8 @@ Done by Mingxuan Xie alone under 48 hours while participating GlobalGameJam2021.
 ##### _The Space In Between, The corridor, VR game Screenshot, 2021_ 
 
 >The Global Game Jam® (GGJ) is the world's largest game creation event taking place around the globe, typically at physical locations. A "game jam" is essentially a hackathon focused on game development. It is the growth of an idea that in today’s heavily connected world, we could come together, be creative, share experiences and express ourselves in a multitude of ways using video games – it is very universal. The weekend stirs a global creative buzz in games, while at the same time exploring the process of development, be it programming, iterative design, narrative exploration or artistic expression. It is all condensed into a 48 hour development cycle. The GGJ encourages people with all kinds of backgrounds to participate and contribute to this global spread of game development and creativity.
+
+<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
 ### Credits: 
 
