@@ -55,7 +55,8 @@ plugins:
   - jekyll-seo-tag
 
 # Use GitHub Flavored Markdown
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
+markdown: kramdown
 
 # Exclude certain directory and files
 exclude:
