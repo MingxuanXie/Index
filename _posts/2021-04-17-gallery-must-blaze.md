@@ -3,7 +3,7 @@ layout: post
 title: "畫廊必須燃燒 | Gallery Must Blaze"
 categories: work
 ---  
-<video width="100%" preload autoplay controls><source src="/assets/gallery-must-blaze/demo.mp4" type="video/mp4">Video Not Loaded</video>
+<video width="100%" preload autoplay loop controls><source src="/assets/gallery-must-blaze/demo.mp4" type="video/mp4">Video Not Loaded</video>
 
 ##### _Gallery Must Blaze, AR App Screen Recoding, CouttsArt Center, Shanghai 2021_  
 ##### _Physical installation courtesy of artist Dayou Geng_
