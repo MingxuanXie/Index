@@ -5,7 +5,7 @@ categories: work
 ---  
 <video width="100%" preload autoplay loop controls><source src="/assets/gallery-must-blaze/demo.mp4" type="video/mp4">Video Not Loaded</video>
 
-##### _Gallery Must Blaze, AR App Screen Recoding, CouttsArt Center, Shanghai 2021_  
+##### _Gallery Must Blaze_, AR App Screen Recoding, CouttsArt Center, Shanghai 2021 
 ##### _Physical installation courtesy of artist Dayou Geng_
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
@@ -13,12 +13,12 @@ categories: work
 
 中｜[ENG](#eng)
 
-你能透過無數白盒子空間來判斷當今畫廊有多麽無聊。  
+你能透過無數白盒子展覽來判斷當今畫廊有多麽無聊。  
 那些被看門人管控下的美術館在後現代的虛假表皮下搖搖欲墜。  
 
 我無意於建造門檻，抑或表皮。  
 我厭倦了現實空間的條條框框（尤其是消防規範）。  
-因為對於藝術，我只想保留最令人不安的部分。  
+因為關於藝術，我只想保留最令人不安的部分。  
 
 我想要畫廊淩駕於於物理限制。  
 畫廊要虛擬，開源，去中心，不可替換。  
@@ -29,7 +29,7 @@ categories: work
 
 *“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/)之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？*
 
-畫廊必須穿越次元————  
+畫廊必須穿越次元——  
 嗨、萌、好玩、耍梗、互動、沈迷、性轉、爆炸、全真、被駭、故障、分布自治、病毒性傳播，  
 無論線上或線下。
 
