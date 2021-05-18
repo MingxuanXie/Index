@@ -16,7 +16,11 @@ categories: work
 
 疫情之下，人類社會正以前所未有的速度加速虛擬化。
 
-[**点此访问在线虚拟展览 | Click here to visit the online exhibition**](https://mingxuan.fun/hyper-corona-virus/)
+[**点此访问线上虚拟展览 | Click here to visit the online exhibition**](https://mingxuan.fun/hyper-corona-virus/)
+<div class="sketchfab-embed-wrapper"> <iframe title="Wuhan Medical Stuff Dancing to Cheer Up Patients" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="480" src="https://sketchfab.com/models/18c5482e6368406f83c84e530dee0f41/embed?autostart=1"> </iframe> </div>
+
+##### _Hyper Coronavirus, Wuhan Medical Stuff Dancing to Cheep Up Patients, 3D Animated Model, Un-contagious Museum, Online, 2020_
+
 ![alt text](/assets/hyper-corona-virus/qr-ticket.png "Hyper Coronavirus, Virtual Exhibition Ticket, Un-contagious Museum, Online, 2020")
 ##### _Hyper Coronavirus, Virtual Exhibition Ticket, Un-contagious Museum, Online, 2020_
 
