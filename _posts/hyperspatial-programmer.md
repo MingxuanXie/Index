@@ -39,3 +39,22 @@ I have no regrets.This is the only path.（了无遗憾。此乃唯一路途）
 ならば、我が生涯に意味は不要ず.（那么，此生无须任何意义）
 My whole life was "unlimited blade works".（此生即为“无限剑制”）
 この体は”无限の剣”で出来ていた（此身定为“无限之剑”所成）
+
+
+I am the bone of my code
+
+Space is my body, and time is my blood.
+
+I have programmed over a million sites.
+
+Unaware of time
+
+Nor aware of space
+
+Withstood pain to recreate many places, waiting for one's visit.
+
+I have no regrets. This is the only way.
+无悔，即是道
+
+My whole life would be "unlimited space codes"
+此生将为“无限代码间”
