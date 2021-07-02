@@ -7,7 +7,7 @@ email: designer.mingxuan@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   謝明炫 Mingxuan Xie: Vrchitect / Indie Dev / XR Innovator / Founder of Vrch and Member of Hyperbation.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
