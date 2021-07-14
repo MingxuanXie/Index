@@ -4,7 +4,7 @@ title: 簡介 About
 permalink: /about/
 ---
 
-Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http://vrch.io) and Member of [Hyperbation](http://hyperbation.art).  
+Mingxuan Xie is an indie developer, designer and startup entrepreneur, founder of [Vrch](http://vrch.io) and co-founder of [Hyperbation](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a **cyberspatial architect** who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces, and to explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
 
 ### Experience:
 
@@ -31,8 +31,10 @@ Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http:
 - **2018**
     - [Digital Earth Fellowship](https://www.digitalearth.art/mingxuan-xie)
 
-### Exhibitions:
+### Events & Exhibitions:
 - **2021**  
+    - *FREQS Event 2*, Tri Space, Shanghai, China
+    - *Process of Entropy Growth*, Ming Contemporary Art Museum, Shanghai, China
     - *Now Showing 2021 Before Rejuvenation*, CouttsArt Center, Shanghai, China
 - **2020**  
     - London Design Festival, London, UK
@@ -60,7 +62,10 @@ Mingxuan Xie is a Vrchitect / Indie Dev / XR Innovator / Founder of [Vrch](http:
     - [Paradise AIR](https://www.paradiseair.info/people/mingxuan-xie), Matsudo, Japan
 
 ### Talks & Presentations:
-
+- **2021**
+    - *VRCHITECT*, Xinchejian Open night, Shanghai, China
+    <!-- - *游戲化與虛擬測站是博物館的必修課嗎？*，燕郊雙年展，綫上對談 -->
+    <!-- - *賽博朋克狄托邦、后稀缺烏托邦、電子烏托邦誰先到來？*，燕郊雙年展，綫上對談 -->
 - **2019** 
     - *Breaking Dimensional Boundaries - Hyperbody Game Demo*，China Academy of Art, China
     - *Hyperlocal and Digital Nomad Art Practice*，Sichuan Fine Arts Institute, China
