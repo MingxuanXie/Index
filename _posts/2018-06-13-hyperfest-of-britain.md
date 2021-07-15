@@ -3,17 +3,16 @@ layout: post
 title: "不列顛超級盛會 | HyperFest of Britain"
 categories: work
 ---
-<iframe src="https://player.vimeo.com/video/311727885?color=fcabfc&amp;title=0&amp;byline=0&amp;portrait=0" width="100%" height="370" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
-##### _HyperFest of Britain, VR Video Experience on Vimeo, 03:48, London, UK, 2018_
+![alt text](/assets/hyperfest/HyperFest_of_Britain_1.jpg "HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018")
+##### _HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018_
 
 以第三次世界大戰後末世狀態的英國爲背景，2051年不列顛超級盛會是一個定位在倫敦南岸银禧花园（1951年不列顛節原址）的虛構建築項目。整個項目使用數字定位技術加上混合現實技術，在現實的廢墟上呈現出一場虛擬的盛會，企圖將英國歷史上著名的1851年萬國博覽會，1951年不列颠节以及2000年千禧年展的内容重新混合並重新創造出新的超級盛會以給予戰後沒落的英國人民虛擬(假)的鼓勵。
 
 Settled in a post-war and post-apocalyptic Britain, the HyperFest of Britain 2051 is a fictional project hyperlocated on Jubilee Gardens, Southbank, London. Jubilee Gardens used to be the site for the original Festival of Britain 1951, but is partially flooded by Thames River in 2051. Apart from the minimum constructions for bridges and observation decks, the whole exhibition is “built” using geolocated mixed reality (hyperlocation) technology to create a virtual layer on the actual site with the Virtual Skylon overlaid on the exact position of the original Skylon as the trigger to activate the virtual exhibition.
 
-![alt text](/assets/hyperfest/HyperFest_of_Britain_1.jpg "HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018")
-##### _HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018_
+<iframe src="https://player.vimeo.com/video/311727885?color=fcabfc&amp;title=0&amp;byline=0&amp;portrait=0" width="100%" height="370" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
+##### _HyperFest of Britain, VR Video Experience on Vimeo, 03:48, London, UK, 2018_
 ![alt text](/assets/hyperfest/HyperFest_of_Britain_4.jpg "HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018")
 ##### _HyperFest of Britain, Panorama View Under The Virtual Skylon, London, UK, 2018_
 
