@@ -119,6 +119,7 @@ h6 {
 a {
   color: $brand-color;
   text-decoration: none;
+  font-weight: bold;
 
   // &:visited {
   //   color: darken($brand-color, 15%);
@@ -142,8 +143,9 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color-light;
-  border-left: 4px solid $grey-color-dark;
+  color: $brand-color;
+  // border-left: 4px solid $grey-color-dark;
+  border-left: 4px solid $brand-color;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
@@ -160,9 +162,10 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
+  white-space : pre-wrap !important; //for line wrap
+  word-break: break-word; //for line wrap
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: blue;
 }
 
 code {

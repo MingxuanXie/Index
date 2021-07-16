@@ -27,13 +27,13 @@ categories: work
 要在公眾號、INS與P站之間來回跳轉，  
 又在區塊鏈上凝聚共識。    
 
-*“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/)之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？*
+*“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/){target="_blank"}之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？*
 
 畫廊必須穿越次元——  
 嗨、萌、好玩、耍梗、互動、沈迷、性轉、爆炸、全真、被駭、故障、分布自治、病毒性傳播，  
 無論線上或線下。
 
-要冷，便寒如[北極冰川代碼庫](https://archiveprogram.github.com/arctic-vault/)。  
+要冷，便寒如[北極冰川代碼庫](https://archiveprogram.github.com/arctic-vault/){target="_blank"}。  
 要熱，就燙過極限超頻的芯片。  
 
 畫廊必須燃燒🔥
