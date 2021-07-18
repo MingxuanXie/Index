@@ -1,0 +1,42 @@
+---
+layout: post
+title: "对峙超草地 | Confrontation in the HyperMeadow"
+categories: draft
+---  
+<video width="100%" preload controls><source src="/assets/hypermeadow/hypermeadow-recording.mp4" type="video/mp4">Video Not Loaded</video>
+
+##### *Confrontation in the HyperMeadow*, Live performance recording [05:30~16:00] [Watch on Youtube](https://youtu.be/IrBsUNbtcLg)
+##### A collaboration between Mingxuan Xie and Jamey Braden 
+##### Tri Space, Shanghai 2021
+
+Confrontation in the HyperMeadow explores embodiment, selfhood, and the possibility of experiences to echo and resonate through different planes of reality. It is a story of an ordinary cyborg the physical world who is stuck in a dream loop, or a time loop or a life loop. She finds herself in a virtual world that is fed by AI, poems, and dreams. Creatures speaking in riddles appear to guide her but where will they lead? 
+
+```json
+{"prompt": ["A narcissus blooms brightly in the dark, begging you to open a window"]}
+{"result": ["The darkness that ever whispered to you is that 
+             dream is real when you dream. 
+             And you might not believe it, 
+             and you might not believe it as long as you keep your paper 
+             and don’t let the curtains under your skin. 
+             Dream is perhaps a tale.
+             when you look up at the sky,
+             you could see a white pair of dream.
+             Sometimes, when you dream of faces in the night 
+             you could not believe that your dream is a real dream when you dream. 
+             But when you look up at the sky you could not believe 
+             everything you said for me that i never knew 
+             and that was a perfect dream. 
+             You didn’t know me i never knew it.  
+             Everything you said for me that i never knew  
+             I just thought you would always remember that 
+             I could  always remember you 
+             and you can see the dream of a perfect dream perfect above you 
+             and you can see the dream of a perfect face without dream."]}
+```
+##### *Confrontation in the HyperMeadow*, AI generated abstract, Tri Space, Shanghai 2021
+
+<video width="100%" preload autoplay loop muted><source src="/assets/hypermeadow/directing.mp4" type="video/mp4">Video Not Loaded</video>
+
+##### *Confrontation in the HyperMeadow*, Directing in Mixed-reality by FREQS Director Jonathan Mulcahy
+##### [Watch on Youtube](https://youtu.be/QgQdebgsovw)
+

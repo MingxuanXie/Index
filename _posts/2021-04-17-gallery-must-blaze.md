@@ -13,30 +13,30 @@ categories: work
 
 中｜[ENG](#eng)
 
-你能透過無數白盒子展覽來判斷當今畫廊有多麽無聊。  
-那些被看門人管控下的美術館在後現代的虛假表皮下搖搖欲墜。  
+**你能透過無數白盒子展覽來判斷當今畫廊有多麽無聊。**  
+**那些被看門人管控下的美術館在後現代的虛假表皮下搖搖欲墜。**  
 
-我無意於建造門檻，抑或表皮。  
-我厭倦了現實空間的條條框框（尤其是消防規範）。  
-因為關於藝術，我只想保留最令人不安的部分。  
+**我無意於建造門檻，抑或表皮。**  
+**我厭倦了現實空間的條條框框（尤其是消防規範）。**  
+**因為關於藝術，我只想保留最令人不安的部分。**  
 
-我想要畫廊淩駕於於物理限制。  
-畫廊要虛擬，開源，去中心，不可替換。  
-要在資本泡沫中乘風破浪，  
-又在元宇宙中四分五裂。  
-要在公眾號、INS與P站之間來回跳轉，  
-又在區塊鏈上凝聚共識。    
+**我想要畫廊淩駕於於物理限制。**  
+**畫廊要虛擬，開源，去中心，不可替換。**  
+**要在資本泡沫中乘風破浪，**  
+**又在元宇宙中四分五裂。**  
+**要在公眾號、INS與P站之間來回跳轉，**  
+**又在區塊鏈上凝聚共識。**    
 
-*“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/){:target="_blank"}之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？*
+***“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/){:target="_blank"}之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？***
 
-畫廊必須穿越次元——  
-嗨、萌、好玩、耍梗、互動、沈迷、性轉、爆炸、全真、被駭、故障、分布自治、病毒性傳播，  
-無論線上或線下。
+**畫廊必須穿越次元——**  
+**嗨、萌、好玩、耍梗、互動、沈迷、性轉、爆炸、全真、被駭、故障、分布自治、病毒性傳播，**  
+**無論線上或線下。**
 
-要冷，便寒如[北極冰川代碼庫](https://archiveprogram.github.com/arctic-vault/){:target="_blank"}。  
-要熱，就燙過極限超頻的芯片。  
+**要冷，便寒如[北極冰川代碼庫](https://archiveprogram.github.com/arctic-vault/){:target="_blank"}。**  
+**要熱，就燙過極限超頻的芯片。**  
 
-畫廊必須燃燒🔥
+**畫廊必須燃燒🔥**
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -62,7 +62,7 @@ and dissolved in the metaverse.**
 **Galleries that redirected among WeChat, Instagram and PornHub...**  
 **while building consensus on blockchains.**  
 
-*Would "The Next Babylon"<sup>[[1]](#footnote1)</sup> be the "New Babylon"<sup>[[2]](#footnote2)</sup> built on [Babylon.js](https://babylonjs.com/){:target="_blank"}?*
+***Would "The Next Babylon"<sup>[[1]](#footnote1)</sup> be the "New Babylon"<sup>[[2]](#footnote2)</sup> built on [Babylon.js](https://babylonjs.com/){:target="_blank"}?***
 
 **Galleries have to be trans-dimensional,**   
 **hyped, moe, playful, memeful, interactive, addictive, explosive, transsexual, hyperreal, hacked, glitched, DAO and going viral. Online or offline.**
