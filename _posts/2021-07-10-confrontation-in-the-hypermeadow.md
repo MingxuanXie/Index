@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "相逢至高之地 | Confrontation in the HyperMeadow"
+title: "挑戰至高之地 | Confrontation in the HyperMeadow"
 categories: work
 ---  
 ![alt text](/assets/hypermeadow/visitor-interaction.jpg "Confrontation in the HyperMeadow, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021")
-##### *Confrontation in the HyperMeadow*, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021
+##### *Confrontation in the HyperMeadow*, Audience Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021
 ##### A collaboration among Mingxuan Xie, Jamey Braden and FREQS
 ##### Tri Space, Shanghai 2021
 
