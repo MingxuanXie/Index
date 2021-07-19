@@ -3,7 +3,7 @@ layout: post
 title: "相逢至高之地 | Confrontation in the HyperMeadow"
 categories: work
 ---  
-<video width="100%" preload autoplay loop muted><source src="/assets/hypermeadow/directing.mp4" type="video/mp4">Video Not Loaded</video>
+<video width="100%" preload loop><source src="/assets/hypermeadow/directing.mp4" type="video/mp4">Video Not Loaded</video>
 
 ##### *Confrontation in the HyperMeadow*, FREQS Director Jonathan Mulcahy Directing in Mixed-reality [Watch on Youtube](https://youtu.be/QgQdebgsovw)
 ##### A collaboration among Mingxuan Xie, Jamey Braden and FREQS
