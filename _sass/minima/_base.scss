@@ -305,3 +305,10 @@ table {
        url('../fonts/ubuntu-mono-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/ubuntu-mono-v10-latin-regular.svg#UbuntuMono') format('svg'); /* Legacy iOS */
 }
+
+// add center class
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+}

@@ -22,4 +22,4 @@ This work is part of the “HyperBody” series by Hyperbation art duo.
 ##### _The HyperFeast of Chungking Cannibalism Hotpot, A participant eating hotpot in VR, Chongqing Dimension Art Center, China, 2019. Photo by Burning Bear_
 
 ![alt text](/assets/hyperfeast-ck-hotpot/4.jpg "The HyperFeast of Chungking Cannibalism Hotpot, The exhibition space, Chongqing Dimension Art Center, China, 2019. Photo by: Mingxuan Xie")
-##### _The HyperFeast of Chungking Cannibalism Hotpot, The exhibition space, Chongqing Dimension Art Center, China, 2019. Photo by: Mingxuan Xie_
+##### _The HyperFeast of Chungking Cannibalism Hotpot, The exhibition space, Chongqing Dimension Art Center, China, 2019. Photo by Mingxuan Xie_
