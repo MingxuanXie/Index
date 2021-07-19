@@ -162,7 +162,7 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  white-space : pre-wrap !important; //for line wrap
+  // white-space : pre-wrap !important; //for line wrap
   word-break: break-word; //for line wrap
   border: 1px solid $grey-color-light;
   border-radius: 3px;
