@@ -3,7 +3,7 @@ layout: post
 title: "熵增的過程 | Process of Entropy Growth"
 categories: work
 ---  
-<video width="100%" preload loop controls><source src="/assets/entropy-growth/1.mp4" type="video/mp4">Video Not Loaded</video>
+<video width="100%" preload controls><source src="/assets/entropy-growth/1.mp4" type="video/mp4">Video Not Loaded</video>
 
 ##### _Process of Entropy Growth_, Multimedia Performance, Ming Contemporary Museum, Shanghai 2021 [Watch on Youtube](https://youtu.be/dpE5KyJjJVw)
 ##### Multimedia created by Mingxuan Xie, Performance directed by Qian Lili

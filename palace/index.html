@@ -13,8 +13,8 @@
     <script src="js/shader-glitch.js"></script>
     <!-- <script src="js/aframe-particle-system-component.min.js"></script> -->
     <!-- <script src="https://unpkg.com/aframe-particle-system-component@1.0.x/dist/aframe-particle-system-component.min.js"></script> -->
-    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
-    <script src="https://unpkg.com/aframe-randomizer-components@3.0.2/dist/aframe-randomizer-components.min.js"></script>
+    <script src="js/aframe-extras.min.js"></script>
+    <script src="js/aframe-randomizer-components.min.js"></script>
     <script src="js/click-url.js"></script>
     <script src="js/twoway-motion.js"></script>
     <script src="js/random-text-color.js"></script>
@@ -50,12 +50,12 @@
       renderer="colorManagement: true" 
       vr-mode-ui="enabled: false" 
       loading-screen="dotsColor: yellow; backgroundColor: pink" 
-      fog="type: exponential; color: blue; density: 0.125"
+      fog="type: exponential; color: blue; density: 0.1"
       device-orientation-permission-ui="enabled: false">
     <!-- fog setting will break scene -->
     <!-- <a-scene fog="type: exponential; color: blue; density: 0.0003"> -->
 
-      <a-assets>
+      <a-assets timeout="5000">
 <!-- ASSET SOUND -->
         <!-- <audio id="keda" src="assets/keda.mp3" preload="auto"></audio> -->
 <!-- ASSET IMAGE -->
@@ -73,7 +73,8 @@
         <a-asset-item id="3DdanmakuTest_mtl" src="assets/3DdanmakuTest.mtl"></a-asset-item>
         <a-asset-item id="CrabMing_obj" src="assets/CrabMing_obj/CrabMing.obj"></a-asset-item>
         <a-asset-item id="CrabMing_mtl" src="assets/CrabMing_obj/CrabMing.mtl"></a-asset-item>
-        <a-asset-item id="ming-san" src="assets/ming-san.glb"></a-asset-item>
+        <!-- <a-asset-item id="ming-san" src="assets/ming-san.glb"></a-asset-item> -->
+        <a-asset-item id="ming-san-animated" src="assets/ming-san-animated.glb"></a-asset-item>
 <!-- ASSET Mixins -->
         <a-mixin id="title" text="font: fonts/mozillavr.fnt; align: center" position="0 1.2 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1.2 -1.5; max: 0.25 1 -2" random-text-color="min: 0.8 0.8 0"></a-mixin>
         <a-mixin id="title-no-random-color" text="font: fonts/mozillavr.fnt; align: center" position="0 1 -1.5" scale="2 1.2 2" hypermove="factor:0.01" look-at="[camera]" random-position="min: -0.25 1 -1.5; max: 0.25 1 -2"></a-mixin>
@@ -110,7 +111,8 @@
                 hypermove="factor:0.01">
       </a-entity>
 
-      <a-entity id="ming-san-entity" gltf-model="#ming-san" scale="10 10 10" position="0.05042 -14.34314 -7.095" rotation="2.87324 -156.99893 -6.598754926521691" animation-mixer></a-entity>
+      <!-- <a-entity id="ming-san-entity" gltf-model="#ming-san" scale="10 10 10" position="-1.5 -2 -7.5" rotation="8 20 0"></a-entity> -->
+      <a-entity id="ming-san-animated-entity" gltf-model="#ming-san-animated" scale="10 10 10" position="-0.60958 -13.75314 -8.785" rotation="-5.116760000000001 -160.05893 -5.04875" animation-mixer></a-entity>
 
       <!-- animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 12000" -->
       <a-image mixin="square-img" src="#HyperFestBritain01" position="1.5 0 -1"><a-box mixin="img-frame" show-nft="nftHyperFestBritain01"></a-box></a-image>

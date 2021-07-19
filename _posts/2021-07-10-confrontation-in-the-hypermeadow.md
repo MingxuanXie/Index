@@ -3,9 +3,8 @@ layout: post
 title: "相逢至高之地 | Confrontation in the HyperMeadow"
 categories: work
 ---  
-<video width="100%" preload loop><source src="/assets/hypermeadow/directing.mp4" type="video/mp4">Video Not Loaded</video>
-
-##### *Confrontation in the HyperMeadow*, FREQS Director Jonathan Mulcahy Directing in Mixed-reality [Watch on Youtube](https://youtu.be/QgQdebgsovw)
+![alt text](/assets/hypermeadow/visitor-interaction.jpg "Confrontation in the HyperMeadow, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021")
+##### *Confrontation in the HyperMeadow*, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021
 ##### A collaboration among Mingxuan Xie, Jamey Braden and FREQS
 ##### Tri Space, Shanghai 2021
 
@@ -42,5 +41,6 @@ Confrontation in the HyperMeadow explores embodiment, selfhood, and the possibil
 ![alt text](/assets/hypermeadow/performance-stage.jpg "Confrontation in the HyperMeadow, Performance Stage, Tri Space, Shanghai 2021. Photo by Zhiyuan Jiang")
 ##### *Confrontation in the HyperMeadow*, Performance Stage, Tri Space, Shanghai 2021. Photo by Zhiyuan Jiang
 
-![alt text](/assets/hypermeadow/visitor-interaction.jpg "Confrontation in the HyperMeadow, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021")
-##### *Confrontation in the HyperMeadow*, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021
+<video width="100%" preload controls><source src="/assets/hypermeadow/directing.mp4" type="video/mp4">Video Not Loaded</video>
+
+##### *Confrontation in the HyperMeadow*, FREQS Director Jonathan Mulcahy Directing in Mixed-reality [Watch on Youtube](https://youtu.be/QgQdebgsovw)
