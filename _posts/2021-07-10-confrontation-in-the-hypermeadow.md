@@ -6,7 +6,6 @@ categories: work
 ![alt text](/assets/hypermeadow/visitor-interaction.jpg "Confrontation in the HyperMeadow, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021")
 ##### *Confrontation in the HyperMeadow*, Audience Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021
 ##### A collaboration among Mingxuan Xie, Jamey Braden and FREQS
-##### Tri Space, Shanghai 2021
 
 Confrontation in the HyperMeadow explores embodiment, selfhood, and the possibility of experiences to echo and resonate through different planes of reality. It is a story of an ordinary cyborg the physical world who is stuck in a dream loop, or a time loop or a life loop. She finds herself in a virtual world that is fed by AI, poems, and dreams. Creatures speaking in riddles appear to guide her but where will they lead? 
 
