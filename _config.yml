@@ -18,7 +18,7 @@ minima:
   social_links:
     twitter: MingxuanXie
     github: MingxuanXie
-    # rss: rss
+    rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -26,7 +26,7 @@ minima:
     linkedin: mingxuan-xie
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel: UCs7_mSIr5eiaSDsPt47DzMQ
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
@@ -34,9 +34,9 @@ minima:
     # keybase: jekyll
     #
     # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+    mastodon:
+    - username: mingxuan
+      instance: social.caa-ins.org
     # - username: jekyll2
     #   instance: example.com
 
