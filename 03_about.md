@@ -4,19 +4,19 @@ title: 簡介 About
 permalink: /about/
 ---
 
-Mingxuan Xie is an indie developer, designer and startup entrepreneur, founder of [Vrch](http://vrch.io) and co-founder of [Hyperbation](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a **cyberspatial architect** who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces, and to explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
+Mingxuan Xie is an indie developer and architectural designer, founder of mixed-reality studio [Vrch](http://vrch.io) and co-founder of [Hyperbation](http://hyperbation.art) art duo. Having been trained as an architect and worked for world-leading architectural firms, he is now a **cyberspatial architect** who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces, and to explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
 
 ### Experience:
 
-- **2019-PR** Founder and Director of [Vrch](https://vrch.io/), London, UK
+- **2019-PR** Founder and Director of [Vrch](https://vrch.io/)
 
 - **2018-19** Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
 
-- **2017-19** Technical Director at [Hyperbation](http://hyperbation.art/)
+- **2017-19** Co-founder of [Hyperbation](http://hyperbation.art/)
 
-- **2015-16** Architectural Assistant at [UNStudio](https://www.unstudio.com/), Shanghai, China
+- **2015-16** Architectural Assistant at [UNStudio](https://www.unstudio.com/)
 
-- **2014-15** Architectural Assistant at [Sheppard Robson Architects](https://www.sheppardrobson.com/), Manchester, UK
+- **2014-15** Architectural Assistant at [Sheppard Robson Architects](https://www.sheppardrobson.com/)
 
 
 ### Awards & Fellowships:
@@ -26,13 +26,14 @@ Mingxuan Xie is an indie developer, designer and startup entrepreneur, founder o
 
 - **2019** 
     - [Wikitopia International Competition Phase 2 Finalist](https://wikitopia.city/competition/entries/index_en.html)
-    - CiGA Game Jam Shanghai Minhang Finalist
+    <!-- - CiGA Game Jam Shanghai Minhang Finalist -->
 
 - **2018**
     - [Digital Earth Fellowship](https://www.digitalearth.art/mingxuan-xie)
 
 ### Events & Exhibitions:
 - **2021**  
+    - [*The Law of Alchemy: Philosopher's Stone And The Four Elements*](https://www.threeshadows.cn/exhibitions/160-the-law-of-alchemy-philosopher-s-stone-and-the/overview/), Three Shadows Photography Art Centre, Beijing, China
     - *FREQS Event 2*, Tri Space, Shanghai, China
     - *Process of Entropy Growth*, Ming Contemporary Art Museum, Shanghai, China
     - *Now Showing 2021 Before Rejuvenation*, CouttsArt Center, Shanghai, China
@@ -87,6 +88,6 @@ HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology -->
 
 - **2016-18** Master of Architecture, RIBA Part II, University of Greenwich, UK
 
-- **2012-14** BA Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
+- **2012-14** BA in Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
 
-- **2010-12** BEng Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China
+- **2010-12** BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China
