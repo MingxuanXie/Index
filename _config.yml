@@ -42,8 +42,10 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - 01_work.md
+  # - 02_blog.md
+  - 03_about.md
 
 # Comment out Build settings to avoid conflict with github pages
 
