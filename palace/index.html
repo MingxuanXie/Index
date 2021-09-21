@@ -91,7 +91,11 @@
       <!-- <a-entity position="0 2.25 -15" rotation="180 0 0" particle-system="preset: snow; color: yellow"></a-entity> -->
 
 <!-- Camera -->
-      <a-entity position="0 0 0" camera look-controls twoway-motion="nonMobileLoad: true; speed: 2; threshold: -90" wasd-controls="fly: true; acceleration: 0.2">
+      <a-entity position="0 0 10" camera look-controls 
+      twoway-motion="nonMobileLoad: true; speed: 2; threshold: -90" 
+      wasd-controls="fly: true; acceleration: 0.2"
+      animation="property: position; to: 0 0 0; loop: false; dur: 250"
+      >
         <a-entity cursor="fuse: true; fuseTimeout: 500"
                   raycaster="far: 3; interval: 500"
                   position="0 0 -0.3"
