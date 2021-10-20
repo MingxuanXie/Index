@@ -65,7 +65,7 @@ Mingxuan Xie is an indie developer and architectural designer, founder of mixed-
 ### Talks & Presentations:
 - **2021**
     - *VRCHITECT*, Xinchejian Open night, Shanghai, China
-    <!-- - *游戲化與虛擬測站是博物館的必修課嗎？*，燕郊雙年展，綫上對談 -->
+    <!-- - *游戲化與虛擬策展是博物館的必修課嗎？*，燕郊雙年展，綫上對談 -->
     <!-- - *賽博朋克狄托邦、后稀缺烏托邦、電子烏托邦誰先到來？*，燕郊雙年展，綫上對談 -->
 - **2019** 
     - *Breaking Dimensional Boundaries - Hyperbody Game Demo*，China Academy of Art, China
@@ -79,9 +79,12 @@ HyperBody: In Searching for Alternative Digital Silk Roads
 2017 – 2018, London, UK
 HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology -->
 
-<!-- ### Media Coverage:
+<!-- 
+### Media Coverage:
 
-2020 澎湃新聞 https://www.thepaper.cn/newsDetail_forward_6491540 -->
+2020 [恢复开馆，慢慢来](https://www.thepaper.cn/newsDetail_forward_6491540), 澎湃新聞
+2018 [完全打破次元壁的！Hyperbation！](https://weibo.com/ttarticle/x/m/show/id/2309404316767446029179), VICE中国
+-->
 
 
 ### Education:
