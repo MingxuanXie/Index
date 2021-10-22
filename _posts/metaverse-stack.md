@@ -27,9 +27,20 @@ William J Mitchell
 
 2017 4D Hyperlocal: A Cultural Tool Kit for the Open-source City
 
-# 论数码物的存在 许
+# 论数码物的存在 许煜
 1. 数码物的本质是关系的集合 -> 加密技术加强了关系
 2. 技术问题的本质是哲学问题
+3. 技术物- 数码物 数据 元数据
+4. 标记语言 Markup Language - HTML 超文本标记语言
+5. 元数据语言与引擎更加发达的时候，即机器可以理解任何信息 —— 语义网
+6. 缔合环境 associated milieu （run-time environment运行时环境？）
+7. 空间 与 世界的区别
+8. 内容与关系 内容用来产生关系
+
+在人们眼中，它们是多彩可见的物体，而在编码层面上是文本文件，深挖到操作系统，它们是二进制码，在电路板上是电压值与逻辑门产生的信号。刨根问题可能需要去思考硅与金属，最终甚至是粒子与场
+
+Schema
+Digital Object 与 Runtime Environment的关系
 
 # The Stack by Benjamin Bratton
 行星尺度计算机
@@ -40,12 +51,13 @@ William J Mitchell
 5. Cloud
 6. Earth
 
+## Seven Layers of Metaverse
+https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7
+https://medium.com/building-the-metaverse/market-map-of-the-metaverse-8ae0cde89696
 
 本雅明 闲逛者
 库哈斯 垃圾空间
 元宇宙还没有足够的闲逛者
-
-Github - Arctic Code Vault
 
 开源 -> 闭源
 最大共识
@@ -59,7 +71,6 @@ OpenGL -> WebGL 1.0 -> WebGL 2.0 -> WebGPU
 
 
 ### UGC
-Godot, Babylon.js, Three.js -> Aframe -> Hubs
 Blender
 GIMP
 Krita
@@ -74,6 +85,8 @@ USD/USDZ -> Apple/Pixar/Nvidia
 Browser
   Brave
      Browser Kernel Chromeium Safari-Webkit Firefox？ 
+
+Run-time Environment Godot, Babylon.js, Three.js -> Aframe -> Hubs
 
 ### Coding IDE
 Visual Studio Code
@@ -90,14 +103,14 @@ IPFS
 Metamask
 
 ### Network
-Blockchain
-Polygon/Matic PoS Network
+Blockchain Polygon/Matic PoS Network
+P2P 
+
 
 ### Address
 Site
 HyperSite
 
-Digital Object 与 Runtime Environment的关系
-
+Github - Arctic Code Vault
 
 https://ryanschultz.com/2019/06/04/decentraland-moves-to-unity-releases-more-pictures-of-its-avatars/

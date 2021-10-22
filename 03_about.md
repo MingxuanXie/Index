@@ -33,6 +33,7 @@ Mingxuan Xie is an indie developer and architectural designer, founder of mixed-
 
 ### Events & Exhibitions:
 - **2021**  
+    - [*Orange-Red Variable*](https://exhibit.artron.net/exhibition-74667.html), Shanghai Himalayas Art Museum, China
     - [*The Law of Alchemy: Philosopher's Stone And The Four Elements*](https://www.threeshadows.cn/exhibitions/160-the-law-of-alchemy-philosopher-s-stone-and-the/overview/), Three Shadows Photography Art Centre, Beijing, China
     - *FREQS Event 2*, Tri Space, Shanghai, China
     - *Process of Entropy Growth*, Ming Contemporary Art Museum, Shanghai, China
