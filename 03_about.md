@@ -92,6 +92,6 @@ HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology -->
 
 - **2016-18** Master of Architecture, RIBA Part II, University of Greenwich, UK
 
-- **2012-14** BA in Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
+- **2010-14** BA in Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
 
-- **2010-12** BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China
+<!-- - **2010-12** BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China -->
