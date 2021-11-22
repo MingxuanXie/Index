@@ -14,6 +14,7 @@ Confrontation in the HyperMeadow explores embodiment, selfhood, and the possibil
 ##### *Confrontation in the HyperMeadow*, Live Performance Recording [05:30~16:00], Tri Space, Shanghai 2021 [Watch on Youtube](https://youtu.be/IrBsUNbtcLg)
 
 ```json
+// powered by rct.ai
 {"prompt": ["A narcissus blooms brightly in the dark, begging you to open a window"]}
 {"result": ["The darkness that ever whispered to you is that 
              dream is real when you dream. 
