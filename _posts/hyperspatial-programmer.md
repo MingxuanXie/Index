@@ -57,4 +57,4 @@ I have no regrets. This is the only way.
 无悔，即是道
 
 My whole life would be "unlimited space codes"
-此生将为“无限代码间”
+此生将为“无限码间”
