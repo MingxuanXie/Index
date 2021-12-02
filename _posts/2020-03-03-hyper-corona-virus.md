@@ -3,7 +3,7 @@ layout: post
 title: "ツ走召ぺ冠狀寎毐ゞ | Hyper Coronavirus"
 categories: work
 ---
-![alt text](/assets/hyper-corona-virus/screenshot.jpg "Hyper Coronavirus, Screenshot, Un-contagious Museum, Online, 2020")
+[![alt text](/assets/hyper-corona-virus/screenshot.jpg "Hyper Coronavirus, Screenshot, Un-contagious Museum, Online, 2020")](/work/2020/03/03/hyper-corona-virus.html)
 ##### _Hyper Coronavirus, Screenshot, Un-contagious Museum, Online, 2020_
 
 面對著網上公開的新冠病毒基因測序和三維模型，不禁想象生於網絡的文化基因又要如何測序和可視化呢？
