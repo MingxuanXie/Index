@@ -5,7 +5,6 @@ categories: work
 ---  
 
 [![圖片未顯示](/assets/gallery-must-blaze/featured.jpg "Gallery Must Blaze, AR screenshot, CouttsArt Center, Shanghai 2021")](/work/2021/04/17/gallery-must-blaze.html)
-
 ##### _Gallery Must Blaze_, AR in-app screenshot, CouttsArt Center, Shanghai 2021 
 ##### Physical installation courtesy of artist [Dayou Geng](http://gengdayou.art)
 
