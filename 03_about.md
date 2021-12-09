@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 簡介 About 
+title: About 簡介
 permalink: /about/
 ---
 
@@ -26,7 +26,7 @@ Mingxuan Xie is an indie developer and architectural designer, founder of mixed-
 
 - **2019** 
     - [Wikitopia International Competition Phase 2 Finalist](https://wikitopia.city/competition/entries/index_en.html)
-    <!-- - CiGA Game Jam Shanghai Minhang Finalist -->
+    - CiGA Game Jam Shanghai Minhang Finalist
 
 - **2018**
     - [Digital Earth Fellowship](https://www.digitalearth.art/mingxuan-xie)
@@ -95,4 +95,4 @@ https://frameweb.com/article/what-can-a-psychedelic-pop-up-club-in-israel-tell-u
 
 - **2010-14** BA in Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
 
-<!-- - **2010-12** BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China -->
+- **2010-12** BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China

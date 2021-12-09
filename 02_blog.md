@@ -1,5 +1,5 @@
 ---
 layout: list-blog
-title: 博客 Blog
+title: Blog 博客
 permalink: /blog/
 ---

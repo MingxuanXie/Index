@@ -1,5 +1,5 @@
 ---
 layout: list-work
-title: 作品 Work
+title: Work 作品
 permalink: /work/
 ---
