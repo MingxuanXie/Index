@@ -34,9 +34,9 @@ minima:
     # keybase: jekyll
     #
     # Mastodon instances
-    mastodon:
-    - username: mingxuan
-      instance: social.caa-ins.org
+    # mastodon:
+    # - username: mingxuan
+    #   instance: social.caa-ins.org
     # - username: jekyll2
     #   instance: example.com
 
