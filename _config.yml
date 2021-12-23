@@ -44,7 +44,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - 01_work.md
-  # - 02_blog.md
+  - 02_blog.md
   - 03_about.md
 
 # Comment out Build settings to avoid conflict with github pages
