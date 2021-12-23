@@ -4,7 +4,7 @@ title: "溺水的電子人 | The Drowning Cyborg"
 categories: work
 ---
 
-![alt text](/assets/drowning-cyborg/0.jpg "The Drowning Cyborg, VR Game Launch Screen, Shanghai, China, 2019")
+[![alt text](/assets/drowning-cyborg/0.jpg "The Drowning Cyborg, VR Game Launch Screen, Shanghai, China, 2019")](/work/2019/07/07/drowning-cyborg.html)
 ##### _The Drowning Cyborg, VR Game Launch Screen, Shanghai, China, 2019_
 
 [**CiGA Game Jam 2019閔行區決賽入圍作品**](https://www.youxibd.com/gamejam/detail/101)

@@ -3,7 +3,7 @@ layout: post
 title: "挑戰至高之地 | Confrontation in the HyperMeadow"
 categories: work
 ---  
-![alt text](/assets/hypermeadow/visitor-interaction.jpg "Confrontation in the HyperMeadow, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021")
+[![alt text](/assets/hypermeadow/visitor-interaction.jpg "Confrontation in the HyperMeadow, Visitors Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021")](/work/2021/07/10/confrontation-in-the-hypermeadow.html)
 ##### *Confrontation in the HyperMeadow*, Audience Interacting with AR Scene, Screenshot, Tri Space, Shanghai 2021
 ##### A collaboration among Mingxuan Xie, Jamey Braden and FREQS
 
@@ -14,6 +14,7 @@ Confrontation in the HyperMeadow explores embodiment, selfhood, and the possibil
 ##### *Confrontation in the HyperMeadow*, Live Performance Recording [05:30~16:00], Tri Space, Shanghai 2021 [Watch on Youtube](https://youtu.be/IrBsUNbtcLg)
 
 ```json
+// powered by rct.ai
 {"prompt": ["A narcissus blooms brightly in the dark, begging you to open a window"]}
 {"result": ["The darkness that ever whispered to you is that 
              dream is real when you dream. 

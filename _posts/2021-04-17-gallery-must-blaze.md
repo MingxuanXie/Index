@@ -4,10 +4,13 @@ title: "畫廊必須燃燒 | Gallery Must Blaze"
 categories: work
 ---  
 
-<video class="center" width="75%" preload controls><source src="/assets/gallery-must-blaze/demo.mp4" type="video/mp4">Video Not Loaded</video>
+[![圖片未顯示](/assets/gallery-must-blaze/featured.jpg "Gallery Must Blaze, AR screenshot, CouttsArt Center, Shanghai 2021")](/work/2021/04/17/gallery-must-blaze.html)
+##### _Gallery Must Blaze_, AR in-app screenshot, CouttsArt Center, Shanghai 2021 
+##### Physical installation courtesy of artist [Dayou Geng](http://gengdayou.art)
+
+<video class="center" width="100%" preload controls><source src="/assets/gallery-must-blaze/demo.mp4" type="video/mp4">Video Not Loaded</video>
 
 ##### _Gallery Must Blaze_, AR App Screen Recoding, CouttsArt Center, Shanghai 2021 
-##### _Physical installation courtesy of artist Dayou Geng_
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 <a name="cn"></a> 
@@ -28,7 +31,7 @@ categories: work
 **要在公眾號、INS與P站之間來回跳轉，**  
 **又在區塊鏈上凝聚共識。**    
 
-***“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/){:target="_blank"}之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？***
+**“下一個巴比倫”<sup>[[1]](#footnote1)</sup>將是建立在[Babylon.js](https://babylonjs.com/){:target="_blank"}之上的“新巴比倫”<sup>[[2]](#footnote2)</sup>？**
 
 **畫廊必須穿越次元——**  
 **嗨、萌、好玩、耍梗、互動、沈迷、性轉、爆炸、全真、被駭、故障、分布自治、病毒性傳播，**  
@@ -58,12 +61,12 @@ categories: work
 
 **I want galleries beyond physical constraints.**   
 **Galleries that virtualised, open-sourced, decentralised, and noun-fungible.**  
-**Galleries that surfing upon capital bubbles,  
-and dissolved in the metaverse.**  
+**Galleries that surfing upon capital bubbles,**  
+**and dissolved in the metaverse.**  
 **Galleries that redirected among WeChat, Instagram and PornHub...**  
 **while building consensus on blockchains.**  
 
-***Would "The Next Babylon"<sup>[[1]](#footnote1)</sup> be the "New Babylon"<sup>[[2]](#footnote2)</sup> built on [Babylon.js](https://babylonjs.com/){:target="_blank"}?***
+**Would "The Next Babylon"<sup>[[1]](#footnote1)</sup> be the "New Babylon"<sup>[[2]](#footnote2)</sup> built on [Babylon.js](https://babylonjs.com/){:target="_blank"}?**
 
 **Galleries have to be trans-dimensional,**   
 **hyped, moe, playful, memeful, interactive, addictive, explosive, transsexual, hyperreal, hacked, glitched, DAO and going viral. Online or offline.**

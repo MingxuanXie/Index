@@ -3,7 +3,7 @@ layout: post
 title: "不列顛超級盛會 | HyperFest of Britain"
 categories: work
 ---
-![alt text](/assets/hyperfest/HyperFest_of_Britain_1.jpg "HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018")
+[![alt text](/assets/hyperfest/HyperFest_of_Britain_1.jpg "HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018")](/work/2018/06/13/hyperfest-of-britain.html)
 ##### _HyperFest of Britain, Panorama View At The Exhibition Centre, London, UK, 2018_
 
 以第三次世界大戰後末世狀態的英國爲背景，2051年不列顛超級盛會是一個定位在倫敦南岸银禧花园（1951年不列顛節原址）的虛構建築項目。整個項目使用數字定位技術加上混合現實技術，在現實的廢墟上呈現出一場虛擬的盛會，企圖將英國歷史上著名的1851年萬國博覽會，1951年不列颠节以及2000年千禧年展的内容重新混合並重新創造出新的超級盛會以給予戰後沒落的英國人民虛擬(假)的鼓勵。

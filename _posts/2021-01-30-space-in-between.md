@@ -3,7 +3,7 @@ layout: post
 title: "空間之間 | The Space In Between"
 categories: work
 ---
-![圖片未顯示|Picture not shown](/assets/space-in-between/0.jpg "The Space In Between, VR game Screenshot, VR game, 2021")
+[![圖片未顯示|Picture not shown](/assets/space-in-between/featured.jpg "The Space In Between, VR game screenshot collage, VR game, 2021")](/work/2021/01/30/space-in-between.html)
 ##### _The Space In Between, VR game Screenshot, VR game, 2021_  
   
 虛擬現實<s>迷宮游戲</s>超空間蹦迪  
@@ -16,16 +16,16 @@ Done by Mingxuan Xie alone under 48 hours while participating GlobalGameJam2021.
 
 <iframe width="100%" height="412" src="https://www.youtube.com/embed/ToJnmACDIbY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![圖片未顯示](/assets/space-in-between/2.jpg "The Space In Between, The maze tower, VR game Screenshot, VR game, 2021")
+![圖片未顯示](/assets/space-in-between/2.jpg "The Space In Between, The maze tower, VR game screenshot, 2021")
 ##### _The Space In Between, The maze tower, VR game Screenshot, VR game, 2021_
 
-![圖片未顯示](/assets/space-in-between/3.jpg "The Space In Between, The horizontal and vertical mazes, VR game Screenshot, VR game, 2021")
+![圖片未顯示](/assets/space-in-between/3.jpg "The Space In Between, The horizontal and vertical mazes, VR game Screenshot, 2021")
 ##### _The Space In Between, The horizontal and vertical mazes, VR game Screenshot, VR game, 2021_
 
-![圖片未顯示](/assets/space-in-between/4.jpg "The Space In Between, The space waves, VR game Screenshot, VR game, 2021")
+![圖片未顯示](/assets/space-in-between/4.jpg "The Space In Between, The space waves, VR game Screenshot, 2021")
 ##### _The Space In Between, The spatial waves, VR game Screenshot, VR game, 2021_
 
-![圖片未顯示](/assets/space-in-between/5.jpg "The Space In Between, The thousand hands and doors, VR game Screenshot, VR game, 2021")
+![圖片未顯示](/assets/space-in-between/5.jpg "The Space In Between, The thousand hands and doors, VR game Screenshot, 2021")
 ##### _The Space In Between, The thousand hands and doors, VR game Screenshot, VR game, 2021_
 
 ![圖片未顯示](/assets/space-in-between/6.jpg "The Space In Between, The corridor, VR game Screenshot, 2021")
