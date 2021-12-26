@@ -2,7 +2,7 @@
 layout: post
 title: "探索尽可能去中心的元宇宙技术栈"
 categories: blog
-permalink: /decentralized-metaverse/
+permalink: /metaverse-stack/
 ---
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FiqiH7CGwABdzm6LvevQhLe%2F%25E5%25B0%25BD%25E5%258F%25AF%25E8%2583%25BD%25E5%258E%25BB%25E4%25B8%25AD%25E5%25BF%2583%25E7%259A%2584%25E5%2585%2583%25E5%25AE%2587%25E5%25AE%2599%25E6%258A%2580%25E6%259C%25AF%25E6%25A0%2588%25E6%25B5%2585%25E6%259E%2590%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
@@ -16,5 +16,5 @@ permalink: /decentralized-metaverse/
 
 **内容时效期短，将在本页面持续更新，如有疑问欢迎联系作者探讨。**  
 
-*由 [Mingxuan Xie](http://mingxuan.fun) 采用 知识共享 署名-相同方式共享 4.0 国际 许可协议进行许可*
-***转载需要署名并附加原文链接，感谢！***
+*由 Mingxuan Xie 、Tz、askender等 采用 知识共享 署名-相同方式共享 4.0 国际 许可协议进行许可*
+***转载需要署名并附加本文链接，感谢！***
