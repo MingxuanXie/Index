@@ -10,8 +10,8 @@ permalink: /metaverse-stack/
 
 包括：  
 - [奇忽局Clubhouse](https://www.clubhouse.com/club/%E5%A5%87%E5%BF%BD%E5%B1%80Club)的线上讨论 [回放](https://www.clubhouse.com/room/MzE6nwO9)  
-- Dweb Lab的[Discord](https://discord.gg/qyNmXghtQW)社区成员  
-- 中国美术学院网络研究所组织的线上课程《元宇宙概论：新世界的沉浸与创造》   
+- Dweb Lab的[Discord](https://discord.gg/qyNmXghtQW)社区讨论  
+- 中国美术学院网络研究所组织的线上课程[《元宇宙概论：新世界的沉浸与创造》](https://news.caa-ins.org/p/-12-13-)   
 - CryptoC风潮思想沙龙组织的分享讲解[《探索尽可能去中心的元宇宙技术栈》（录音转录文字）](https://mp.weixin.qq.com/s/hWmqI8Q6c28b7tCRWldDvg)
 
 Tz、askender等朋友也为本图做出了贡献。
