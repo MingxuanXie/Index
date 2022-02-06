@@ -17,6 +17,7 @@
   letter-spacing: 10px;
   margin-bottom: 0;
   float: left;
+  text-shadow: 2px 2px $brand-color;
 
   //To use with full width header
   // margin-left: 20px;
@@ -77,8 +78,14 @@
   }
 
   @keyframes background-animation {
-    from {background-color: $grey-color;}
-    to {background-color: $brand-color;}
+    from {
+      background-color: $grey-color;
+      box-shadow: 6px 5px $brand-color;
+    }
+    to {
+      background-color: $brand-color;
+      box-shadow: 0px 0px $grey-color;
+    }
   }
 
   .page-link {
@@ -87,9 +94,10 @@
     display: block;
     padding: 5px 10px;
     background-color: $grey-color;
+    box-shadow: 6px 5px $brand-color;
     animation-name: background-animation;
-    animation-duration: 1s;
-    animation-iteration-count: 6;
+    animation-duration: 0.5s;
+    animation-iteration-count: 2;
     animation-direction: alternate;
 
     // Gaps between nav items, but not on the last one
@@ -206,7 +214,7 @@
   // margin-bottom: $spacing-unit / 2;
   // padding-left: $spacing-unit / 2;
   // margin-left: 100px;
-  // background-color: blue;
+  // background-color: $brand-color;
 }
 
 .footer-col-1 {
@@ -262,6 +270,7 @@
 
 .page-heading {
   @include relative-font-size(2);
+  text-shadow: 3px 3px $brand-color;
 }
 
 .post-list-heading {
@@ -297,6 +306,7 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  text-shadow: 3px 3px $brand-color;
 }
 
 .post-title,

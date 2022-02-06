@@ -4,30 +4,27 @@ title: About 簡介
 permalink: /about/
 ---
 
-Mingxuan Xie is an indie developer and architectural designer, founder of mixed-reality studio [Vrch](http://vrch.io) and co-founder of [Hyperbation](http://hyperbation.art) art duo. Having been trained as an architect and worked for world-leading architectural firms, he is now a **cyberspatial architect** who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces, and to explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
+Mingxuan Xie is an architectural designer, artist and indie developer. He is the founder of mix-reality studio [Vrch](http://vrch.io) and co-founder of [Hyperbation Art Duo](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a cyberspatial architect who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces and explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
+
+---
 
 ### Experience:
 
 - **2019-PR** Founder and Director of [Vrch](https://vrch.io/)
-
 - **2018-19** Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
-
 - **2017-19** Co-founder of [Hyperbation](http://hyperbation.art/)
-
 - **2015-16** Architectural Assistant at [UNStudio](https://www.unstudio.com/)
-
 - **2014-15** Architectural Assistant at [Sheppard Robson Architects](https://www.sheppardrobson.com/)
 
 
 ### Awards & Fellowships:
-
+- **2021**
+    - The “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Finalist
 - **2020** 
     - University of Greenwich Generator Bursary  
-
 - **2019** 
     - [Wikitopia International Competition Phase 2 Finalist](https://wikitopia.city/competition/entries/index_en.html)
-    - CiGA Game Jam Shanghai Minhang Finalist
-
+    <!-- - CiGA Game Jam Shanghai Minhang Finalist -->
 - **2018**
     - [Digital Earth Fellowship](https://www.digitalearth.art/mingxuan-xie)
 
@@ -56,33 +53,35 @@ Mingxuan Xie is an indie developer and architectural designer, founder of mixed-
     - *Hyperbation: AA Zoo School*, Architecture Association, London, UK
     - *HyperFest of Britain: The Virtual Dome of Rediscovery*, University of Greenwich, London, UK
 
-### Residencies
-- **2019**
-    - [I: project space](http://yi-projectspace.org/view/hyperbation), Beijing, China
-    - [Dimensions Art Center](http://chongqingdac.org/article/page?id=276), Chongqing, China
-- **2018**
-    - [Paradise AIR](https://www.paradiseair.info/people/mingxuan-xie), Matsudo, Japan
-
 ### Talks & Presentations:
 - **2021**
-    - *VRCHITECT*, Xinchejian Open night, Shanghai, China
-    <!-- - *游戲化與虛擬策展是博物館的必修課嗎？*，燕郊雙年展，綫上對談 -->
-    <!-- - *賽博朋克狄托邦、后稀缺烏托邦、電子烏托邦誰先到來？*，燕郊雙年展，綫上對談 -->
+    <!-- - *元宇宙是人類文明的終極（結）敘事？*，Futurist Circle 未來學家俱樂部 -->
+    - *Archverse: Restructuring China Country at Metaverse*, [The Sixth Annual Conference of Network Society](https://www.caa-ins.org/archives/8017/2), China Academy of Art, China
+    <!-- - *元宇宙重現鄉建中國*，[中國美術學院第六屆網絡社會年會](https://www.caa-ins.org/archives/8017) -->
+    <!-- - *數字&孿生-打破次元壁*，706上海城市客廳 -->
+    - *VRCHITECT!* Xinchejian Open night, Shanghai, China
+    <!-- - *游戲化與虛擬策展是博物館的必修課嗎？*，燕郊雙年展 -->
+    <!-- - *賽博朋克狄托邦、后稀缺烏托邦、電子烏托邦誰先到來？*，燕郊雙年展 -->
 - **2019** 
     - *Breaking Dimensional Boundaries - Hyperbody Game Demo*，China Academy of Art, China
     - *Hyperlocal and Digital Nomad Art Practice*，Sichuan Fine Arts Institute, China
 
-<!-- ### Research:
+<!-- ### Residencies
+- **2019**
+    - [I: project space](http://yi-projectspace.org/view/hyperbation), Beijing, China
+    - [Dimensions Art Center](http://chongqingdac.org/article/page?id=276), Chongqing, China
+- **2018**
+    - [Paradise AIR](https://www.paradiseair.info/people/mingxuan-xie), Matsudo, Japan -->
 
+
+<!-- ### Research:
 2018 – 2019, China
 HyperBody: In Searching for Alternative Digital Silk Roads
-
 2017 – 2018, London, UK
 HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology -->
 
 <!-- 
 ### Media Coverage:
-
 2020 [恢复开馆，慢慢来](https://www.thepaper.cn/newsDetail_forward_6491540), 澎湃新聞
 2018 [完全打破次元壁的！Hyperbation！](https://weibo.com/ttarticle/x/m/show/id/2309404316767446029179), VICE中国
 https://frameweb.com/article/what-can-a-psychedelic-pop-up-club-in-israel-tell-us-about-surrealism-in-china
@@ -90,9 +89,6 @@ https://frameweb.com/article/what-can-a-psychedelic-pop-up-club-in-israel-tell-u
 
 
 ### Education:
-
 - **2016-18** Master of Architecture, RIBA Part II, University of Greenwich, UK
-
 - **2010-14** BA in Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
-
 - **2010-12** BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China

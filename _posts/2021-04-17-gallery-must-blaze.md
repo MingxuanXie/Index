@@ -12,7 +12,7 @@ categories: work
 
 ##### _Gallery Must Blaze_, AR App Screen Recoding, CouttsArt Center, Shanghai 2021 
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+---
 <a name="cn"></a> 
 
 中｜[ENG](#eng)
@@ -80,7 +80,7 @@ categories: work
 <img class="middle" src="/assets/gallery-must-blaze/download-app.png" alt="https://apps.apple.com/am/app/gallery-must-blaze/id1560847662" width="160" height="96">
 </a>
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+---
 
 ### Reference
 
