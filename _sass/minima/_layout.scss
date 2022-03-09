@@ -77,7 +77,7 @@
     padding-bottom: 5px;
   }
 
-  @keyframes background-animation {
+  @keyframes button-animation {
     from {
       background-color: $grey-color;
       box-shadow: 6px 5px $brand-color;
@@ -95,7 +95,7 @@
     padding: 5px 10px;
     background-color: $grey-color;
     box-shadow: 6px 5px $brand-color;
-    animation-name: background-animation;
+    animation-name: button-animation;
     animation-duration: 0.5s;
     animation-iteration-count: 2;
     animation-direction: alternate;
@@ -277,6 +277,15 @@
   @include relative-font-size(1.75);
 }
 
+@keyframes list-animation {
+  from {
+    box-shadow: 6px 5px $brand-color;
+  }
+  to {
+    box-shadow: 0px 0px rgba(118, 255, 97, 0.75);
+  }
+}
+
 .post-list {
   background-color: rgba(118, 255, 97, 0.75);
   padding: 5px;
@@ -285,6 +294,11 @@
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   box-shadow: 10px 8px $brand-color;
+
+  animation-name: list-animation;
+  animation-duration: 0.5s;
+  animation-iteration-count: 2;
+  animation-direction: alternate;
 
   /*
   two row list
@@ -327,6 +341,15 @@
   }
 }
 
+@keyframes post-animation {
+  from {
+    box-shadow: 6px 5px $brand-color;
+  }
+  to {
+    box-shadow: 0px 0px rgba(255, 20, 147, 0.8);
+  }
+}
+
 .post-content {
   margin-bottom: $spacing-unit;
   background-color: rgba(255, 20, 147, 0.8);
@@ -357,6 +380,12 @@
       @include relative-font-size(1.25);
     }
   }
+
+  animation-name: post-animation;
+  animation-duration: 0.5s;
+  animation-iteration-count: 2;
+  animation-direction: alternate;
+
 }
 
 
