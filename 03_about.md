@@ -4,13 +4,13 @@ title: About 簡介
 permalink: /about/
 ---
 
-Mingxuan Xie is an architectural designer, artist and indie developer. He is the founder of mix-reality studio [Vrch](http://vrch.io) and co-founder of [Hyperbation Art Duo](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a cyberspatial architect who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces and explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
+Mingxuan Xie is an architectural designer, digital artist and indie developer. He is the founder of mix-reality studio [Vrch](http://vrch.io) and co-founder of [Hyperbation Art Duo](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a cyberspatial architect who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces and explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
 
 ---
 
 ### Experience:
 
-- **2019-PR** Founder and Director of [Vrch](https://vrch.io/)
+- **2019-PR** Founding Director of [Vrch](https://vrch.io/)
 - **2018-19** Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
 - **2017-19** Co-founder of [Hyperbation](http://hyperbation.art/)
 - **2015-16** Architectural Assistant at [UNStudio](https://www.unstudio.com/)
@@ -74,7 +74,7 @@ Mingxuan Xie is an architectural designer, artist and indie developer. He is the
     - [Paradise AIR](https://www.paradiseair.info/people/mingxuan-xie), Matsudo, Japan -->
 
 
-<!-- ### Research:
+<!-- ### Research & Publications:
 2018 – 2019, China
 HyperBody: In Searching for Alternative Digital Silk Roads
 2017 – 2018, London, UK
