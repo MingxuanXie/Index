@@ -42,19 +42,25 @@ My whole life was "unlimited blade works".（此生即为“无限剑制”）
 
 
 I am the bone of my code
+吾为所编码之骨
 
 Space is my body, and time is my blood.
+空为吾身，时为吾血
 
-I have programmed over a million sites.
+I have programmed over a thousand sites.
+所筑之城已有千余
 
 Unaware of time
+不知时间
 
 Nor aware of space
+亦不觉空间
 
 Withstood pain to recreate many places, waiting for one's visit.
+伴常痛以制诸兵，候伊人之来
 
 I have no regrets. This is the only way.
-无悔，即是道
+无悔，便是道
 
 My whole life would be "unlimited space codes"
 此生将为“无限码间”
