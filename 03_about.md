@@ -16,10 +16,11 @@ Mingxuan Xie is an architectural designer, digital artist and indie developer. H
 - **2015-16** Architectural Assistant at [UNStudio](https://www.unstudio.com/)
 - **2014-15** Architectural Assistant at [Sheppard Robson Architects](https://www.sheppardrobson.com/)
 
-
 ### Awards & Fellowships:
+- **2022**
+    - [MiraclePlus](https://www.miracleplus.com/en/) (former YCombinator China) Alumni 
 - **2021**
-    - The “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Finalist
+    - The “Chunhui Cup” Oversea Students Innovation and Entrepreneurship Competition Finalist  
 - **2020** 
     - University of Greenwich Generator Bursary  
 - **2019** 
@@ -29,6 +30,9 @@ Mingxuan Xie is an architectural designer, digital artist and indie developer. H
     - [Digital Earth Fellowship](https://www.digitalearth.art/mingxuan-xie)
 
 ### Events & Exhibitions:
+- **2022**  
+    - *Urbanism/Architecture Bi-city Biennale (UABB)*, Shenzhen, China
+    - *Not About Money: Landing Meta*, UCCN Gallery, Sea World Culture and Arts Center, Shenzhen, China 
 - **2021**  
     - [*Orange-Red Variable*](https://exhibit.artron.net/exhibition-74667.html), Shanghai Himalayas Art Museum, China
     - [*The Law of Alchemy: Philosopher's Stone And The Four Elements*](https://www.threeshadows.cn/exhibitions/160-the-law-of-alchemy-philosopher-s-stone-and-the/overview/), Three Shadows Photography Art Centre, Beijing, China
@@ -54,6 +58,8 @@ Mingxuan Xie is an architectural designer, digital artist and indie developer. H
     - *HyperFest of Britain: The Virtual Dome of Rediscovery*, University of Greenwich, London, UK
 
 ### Talks & Presentations:
+- **2022**
+    - *Metaverse: why should we care?*, Roca Gallery Shanghai, China
 - **2021**
     <!-- - *元宇宙是人類文明的終極（結）敘事？*，Futurist Circle 未來學家俱樂部 -->
     - *Archverse: Restructuring China Country at Metaverse*, [The Sixth Annual Conference of Network Society](https://www.caa-ins.org/archives/8017/2), China Academy of Art, China
