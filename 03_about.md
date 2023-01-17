@@ -95,6 +95,6 @@ https://frameweb.com/article/what-can-a-psychedelic-pop-up-club-in-israel-tell-u
 
 
 ### Education:
-- **2016-18** Master of Architecture, RIBA Part II, University of Greenwich, UK
-- **2010-14** BA in Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
-- **2010-12** BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China
+- Master of Architecture, RIBA Part II, University of Greenwich, UK
+- BA in Architecture, RIBA Part I, 1st Class Honors, University of Liverpool, UK
+- BEng in Architecture, 1st Class Honors, Xi'an Jiaotong-Liverpool University, China
