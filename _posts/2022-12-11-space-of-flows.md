@@ -6,7 +6,7 @@ categories: work
 [![alt text](/assets/space-of-flows/in-game-screenshot.jpg "The Stack of the Metaverse, in-game screenshot, UABB, 2022")](/work/2022/12/11/space-of-flows.html)
 ##### _Space of Flows: Body as the Site_, in-game screenshot, UABB, 2022
 
-**Design Team 創作團隊**   
+**Design Team 創作團隊:**   
 **Vrch Studio (Mingxuan Xie，Yuan Zhai，Tamim Negm)**  
 Commissioned and exhibited by UABB 由深港雙年展委托創作與展覽
 
