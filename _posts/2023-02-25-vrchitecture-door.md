@@ -6,7 +6,7 @@ categories: work
 [![alt text](/assets/vrchitecture-door/featured.jpg "Vrchitecture: Door, Realtime AIGC hologram installation, Chongqing Times Art Museum, 2023")](/work/2023/02/25/vrchitecture-door.html)
 ##### *Vrchitecture: Door*, Realtime AIGC hologram installation, Chongqing Times Art Museum, 2023
 
-**Design Team 創作團隊**   
+**Design Team 創作團隊:**   
 **Vrch Studio 未亓工作室**  
 
 ![alt text](/assets/vrchitecture-door/aigc-hologram.jpg "Vrchitecture: Door, Hologram panel, Chongqing Times Art Museum, 2023")
