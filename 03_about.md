@@ -4,7 +4,7 @@ title: About 簡介
 permalink: /about/
 ---
 
-Mingxuan Xie is an architectural designer, digital artist and indie developer. He is the founder of mix-reality studio [Vrch](http://vrch.io) and co-founder of [Hyperbation Art Duo](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a cyberspatial architect who experiments with mixed-reality technologies (AR & VR) to remix, recreate and rediscover architectural spaces and explore architecture as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
+Mingxuan Xie is an architectural designer, computational artist and indie developer. He is the founder of [Vrch Studio](http://vrch.io) and co-founder of [Hyperbation Art Duo](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a cyberspatial architect who experiments with latest digital technologies to explore [Vrchitecture](/vrchitecture) as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
 
 ---
 
@@ -89,8 +89,8 @@ HyperSite: Prototyping Hyperlocal via Web-based Mixed-reality Technology -->
 <!-- 
 ### Media Coverage:
 2020 [恢复开馆，慢慢来](https://www.thepaper.cn/newsDetail_forward_6491540), 澎湃新聞
+2019 https://frameweb.com/article/what-can-a-psychedelic-pop-up-club-in-israel-tell-us-about-surrealism-in-china 
 2018 [完全打破次元壁的！Hyperbation！](https://weibo.com/ttarticle/x/m/show/id/2309404316767446029179), VICE中国
-https://frameweb.com/article/what-can-a-psychedelic-pop-up-club-in-israel-tell-us-about-surrealism-in-china
 -->
 
 
