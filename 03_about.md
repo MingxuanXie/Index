@@ -4,7 +4,7 @@ title: About 簡介
 permalink: /about/
 ---
 
-Mingxuan Xie is an architectural designer, computational artist and indie developer. He is the founder of [Vrch Studio](http://vrch.io) and co-founder of [Hyperbation Art Duo](http://hyperbation.art). Having been trained as an architect and worked for world-leading architectural firms, he is now a cyberspatial architect who experiments with latest digital technologies to explore [Vrchitecture](/vrchitecture) as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
+Mingxuan Xie is an architectural designer, computational artist and indie developer. He is the founder of [Vrch Studio](http://vrch.io) and co-founder of [Hyperbation Art Duo](https://hyperbation.github.io/). Having been trained as an architect and worked for world-leading architectural firms, he is now a cyberspatial architect who experiments with latest digital technologies to explore [Vrchitecture](/vrchitecture) as a new form of Gesamtkunstwerk in the post-human and post-digital contexts. 
 
 ---
 
