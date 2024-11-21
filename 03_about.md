@@ -8,7 +8,7 @@ Mingxuan Xie is an architectural designer, computational artist and indie develo
 
 ---
 
-### Experience:
+### Professional Experience:
 
 - **2019-PR** Founding Director of [Vrch](https://vrch.io/)
 - **2018-19** Research Fellow at [Digital Earth Fellowship](https://www.digitalearth.art/)
